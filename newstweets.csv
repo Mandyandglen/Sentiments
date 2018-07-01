@@ -1,0 +1,646 @@
+,text,created_at,brand,sent,pos,neg,neu,compound
+0,"@MariaTCardona  @TheRickWilson  @kathygriffin  @krassenstein  @EdKrassen 
+@GOP @BBCWorld 
+@donlemon @cnn
+#MAGA… https://t.co/J4Piew0MA5",Sun Jul 01 22:03:41 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+1,"RT @CNN: ""How dare you. How dare you take the babies from their mother's arms!"" Rep. Maxine Waters says President Trump has gone too far wi…",Sun Jul 01 22:03:41 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+2,"RT @CNN: ""How dare you. How dare you take the babies from their mother's arms!"" Rep. Maxine Waters says President Trump has gone too far wi…",Sun Jul 01 22:03:41 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+3,@CNN #FamiliesBelongTogetherMarch @Acosta @RealCandaceO @MSNBC https://t.co/P3grRiw4HB,Sun Jul 01 22:03:40 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+4,"@CNN BREAKING: CNN is pushing for the impeachment of the entire Spanish soccer team.
+
+Mueller is investigating possible collusion.",Sun Jul 01 22:03:40 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+5,"RT @krassenstein: This needs to go viral. All the times Trump attacked the Press before this week's tragedy. 
+
+I'm not saying Trump sparked…",Sun Jul 01 22:03:36 +0000 2018,@CNN,"{'neg': 0.261, 'neu': 0.739, 'pos': 0.0, 'compound': -0.8126}",0.0,0.261,0.739,-0.8126
+6,"RT @ReliableSources: ""People are going to yell at us. They're going to tell us to go home. We're not going to go home."" -@Acosta just now o…",Sun Jul 01 22:03:34 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+7,"RT @CNN: A migrant who earned the nickname ""Spider-Man"" after scaling a building to save a child dangling from a balcony has started a new…",Sun Jul 01 22:03:33 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.856, 'pos': 0.144, 'compound': 0.4939}",0.144,0.0,0.856,0.4939
+8,"RT @CNN: A migrant who earned the nickname ""Spider-Man"" after scaling a building to save a child dangling from a balcony has started a new…",Sun Jul 01 22:03:32 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.856, 'pos': 0.144, 'compound': 0.4939}",0.144,0.0,0.856,0.4939
+9,24/7 HATE will make people tune-out. If that’s your intention @FoxNews @CNN @MSNBC @ABC @NBCNews @CBSNews it’s work… https://t.co/XYaDOmDxJ2,Sun Jul 01 22:03:32 +0000 2018,@CNN,"{'neg': 0.198, 'neu': 0.802, 'pos': 0.0, 'compound': -0.6633}",0.0,0.198,0.802,-0.6633
+10,Libs don't know that. They get their NEWS from @CNN https://t.co/ZLwGJnoP4Q,Sun Jul 01 22:03:30 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+11,"@CNN ""keep your friends close, but your enemies closer""
+
+- The Godfather Part II https://t.co/4JP9pVIwaZ",Sun Jul 01 22:03:29 +0000 2018,@CNN,"{'neg': 0.234, 'neu': 0.654, 'pos': 0.112, 'compound': -0.5023}",0.112,0.234,0.654,-0.5023
+12,"RT @CNN: Former President Barack Obama tells Democrats: ""This is a moment of great urgency and you are right to be concerned."" https://t.co…",Sun Jul 01 22:03:29 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.837, 'pos': 0.163, 'compound': 0.6249}",0.163,0.0,0.837,0.6249
+13,"RT @SagittarianMind: Therapists biased against black, poor patients, study finds @CNN https://t.co/HEFlxygZs5",Sun Jul 01 22:03:27 +0000 2018,@CNN,"{'neg': 0.342, 'neu': 0.658, 'pos': 0.0, 'compound': -0.6369}",0.0,0.342,0.658,-0.6369
+14,@cnn @JimAcasta @maddow @msnbc @cbs @nbc #IllegalImmigrants #IllegalAliens #Impeach45 https://t.co/zcncQBRnWf,Sun Jul 01 22:03:27 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+15,@EASEmergency @DailyCaller @CNN Thats not surprising at all. But Soros has had a huge influence. Take NPR for examp… https://t.co/FF5xNawDMr,Sun Jul 01 22:03:27 +0000 2018,@CNN,"{'neg': 0.086, 'neu': 0.805, 'pos': 0.109, 'compound': 0.1245}",0.109,0.086,0.805,0.1245
+16,"@CNN @CNN you wrote a lie under her name. The visual matters, she was against breaking up ICE, you made it appear different.",Sun Jul 01 22:03:26 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.95, 'pos': 0.05, 'compound': 0.0258}",0.05,0.0,0.95,0.0258
+17,"It fits the @CNN theme of #FakeNews 
+https://t.co/Zgi5Z7L8Wo https://t.co/8l7uK9reDq",Sun Jul 01 22:03:26 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+18,@CNN And this is why democrats will Continue to lose. People want a reasonable alternative to the current Trump led… https://t.co/KkQP446RUM,Sun Jul 01 22:03:23 +0000 2018,@CNN,"{'neg': 0.123, 'neu': 0.818, 'pos': 0.059, 'compound': -0.34}",0.059,0.123,0.818,-0.34
+19,@CNN OMW,Sun Jul 01 22:03:22 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+20,@Education4Libs @CNN   Happy to pay for my portion.  What a bargain.,Sun Jul 01 22:03:20 +0000 2018,@CNN,"{'neg': 0.101, 'neu': 0.504, 'pos': 0.396, 'compound': 0.6249}",0.396,0.101,0.504,0.6249
+21,"RT @therealcornett: RETWEET If you're tired of the ANTI-ICE Propaganda coming from the Democrats and @CNN!
+
+We Support @ICEgov!! https://t.…",Sun Jul 01 22:03:18 +0000 2018,@CNN,"{'neg': 0.227, 'neu': 0.667, 'pos': 0.106, 'compound': -0.4724}",0.106,0.227,0.667,-0.4724
+22,@rmayemsinger @MSNBC @CNN I’m strongly pro-life — for trump crime family prison sentences.,Sun Jul 01 22:03:18 +0000 2018,@CNN,"{'neg': 0.376, 'neu': 0.442, 'pos': 0.182, 'compound': -0.6705}",0.182,0.376,0.442,-0.6705
+23,"RT @loisbeckett: No notoriety: @CNN's front is intensely, intimately focused on the victims of the shooting. Their names. Their faces. Not…",Sun Jul 01 22:03:17 +0000 2018,@CNN,"{'neg': 0.177, 'neu': 0.709, 'pos': 0.113, 'compound': -0.1585}",0.113,0.177,0.709,-0.1585
+24,@CNN Of course they want illegal immigrants to come into the country have kids and then vote Democrat. You know it’… https://t.co/2DiC7qH6QR,Sun Jul 01 22:03:17 +0000 2018,@CNN,"{'neg': 0.145, 'neu': 0.803, 'pos': 0.052, 'compound': -0.5106}",0.052,0.145,0.803,-0.5106
+25,"RT @liamvincent26: @CNN Good, the Democrats have become total extremists.",Sun Jul 01 22:03:15 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.4404}",0.244,0.0,0.756,0.4404
+26,"RT @andrewklavan: ""I want people to look at me,"" he explained. ""Because I'm Jim Acosta."" .@CNN's Jim 'Look-at-me-I'm-Jim' @Acosta defends h…",Sun Jul 01 22:03:12 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.939, 'pos': 0.061, 'compound': 0.0772}",0.061,0.0,0.939,0.0772
+27,"RT @wkamaubell: TONIGHT on the season finale of #UnitedShades on @cnn at 10p ET / 7p PT / 4p Hawaii time, I'm headed to Hawaii to unlearn w…",Sun Jul 01 22:03:12 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+28,"@BrannanJr @socityjim @CNN @bennydiego I don’t think you are a victim, I don’t think you are a critical thinker. I… https://t.co/UNPKzWorga",Sun Jul 01 22:03:12 +0000 2018,@CNN,"{'neg': 0.227, 'neu': 0.773, 'pos': 0.0, 'compound': -0.5267}",0.0,0.227,0.773,-0.5267
+29,RT @DONKANDAVILA: @FBuenAbad @nicmaduroguerra @Enc_Popular @dcabellor @CarreroCarolina @JauaMiranda @OncaTvR @chavezcandanga @Adan_Coromoto…,Sun Jul 01 22:03:09 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+30,"RT @andrewklavan: ""I want people to look at me,"" he explained. ""Because I'm Jim Acosta."" .@CNN's Jim 'Look-at-me-I'm-Jim' @Acosta defends h…",Sun Jul 01 22:03:07 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.939, 'pos': 0.061, 'compound': 0.0772}",0.061,0.0,0.939,0.0772
+31,RT @RightToFoodBill: Govt has an important role to play through its policies for increasing food production. Govt has become complacent and…,Sun Jul 01 22:03:02 +0000 2018,@CNN,"{'neg': 0.055, 'neu': 0.766, 'pos': 0.179, 'compound': 0.4404}",0.179,0.055,0.766,0.4404
+32,@Kegan05 @SophieInCT @lmmartind @nobil_colleen @MistyV76 @teririce @CNN Ya’ll don’t get the concept of laws and rul… https://t.co/nOh0tBYZ3m,Sun Jul 01 22:02:59 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+33,@CNN @AnaCabrera yo @Boris_Sanchez are you on the green of a golf course?,Sun Jul 01 22:02:54 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+34,"RT @therealcornett: RETWEET If you're tired of the ANTI-ICE Propaganda coming from the Democrats and @CNN!
+
+We Support @ICEgov!! https://t.…",Sun Jul 01 22:02:53 +0000 2018,@CNN,"{'neg': 0.227, 'neu': 0.667, 'pos': 0.106, 'compound': -0.4724}",0.106,0.227,0.667,-0.4724
+35,@legacyartsstudi @ElderLansing @festus66 @POTUS @CNN No you did not was in response to lack of response and outrage… https://t.co/LAoCt2Hiau,Sun Jul 01 22:02:52 +0000 2018,@CNN,"{'neg': 0.209, 'neu': 0.791, 'pos': 0.0, 'compound': -0.5423}",0.0,0.209,0.791,-0.5423
+36,"RT @ElderLansing: Did I see Kamala Harris, Tim Scott, and Cory Booker call for hate crime legislation when these four racist Chicago thugs,…",Sun Jul 01 22:02:52 +0000 2018,@CNN,"{'neg': 0.371, 'neu': 0.629, 'pos': 0.0, 'compound': -0.9042}",0.0,0.371,0.629,-0.9042
+37,@rmayemsinger @MSNBC @CNN They are not pro life. They are pro birth. They don't give a shit about the baby after it… https://t.co/gejHuKaUoi,Sun Jul 01 22:02:52 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.878, 'pos': 0.122, 'compound': 0.4449}",0.122,0.0,0.878,0.4449
+38,@CNN Complaining and demanding action without offering any solution....,Sun Jul 01 22:02:51 +0000 2018,@CNN,"{'neg': 0.346, 'neu': 0.654, 'pos': 0.0, 'compound': -0.4019}",0.0,0.346,0.654,-0.4019
+39,"RT @CNN: Nigerian actress Omotola Jalade-Ekehinde has been invited to become a member of the Academy of Motion Picture Arts and Sciences, w…",Sun Jul 01 22:02:50 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+40,"@andrewklavan @CNN @Acosta I rather suspect Jim WILL be shouting at the Devil eventually. 
+
+“…quando un altro gridò… https://t.co/EFUNDlNcsu",Sun Jul 01 22:02:49 +0000 2018,@CNN,"{'neg': 0.292, 'neu': 0.708, 'pos': 0.0, 'compound': -0.765}",0.0,0.292,0.708,-0.765
+41,"RT @SebGorka: This is @CNN. 
+
+https://t.co/mXTkZP5Kdl",Sun Jul 01 22:02:47 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+42,"@CNN Those that do just might as well pack their bags, their political career is over, and can't be repaired.",Sun Jul 01 22:02:46 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.9, 'pos': 0.1, 'compound': 0.2732}",0.1,0.0,0.9,0.2732
+43,RT @scali_gianna: @CNN @MSNBC @NBCNews why are you not reporting this it’s important !!!! We need to pray for theses people to be free  I g…,Sun Jul 01 22:02:43 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.72, 'pos': 0.28, 'compound': 0.8209}",0.28,0.0,0.72,0.8209
+44,RT @CNN: Sen. Tammy Duckworth doesn't join Democratic colleagues in calls to abolish US Immigration and Customs Enforcement https://t.co/DR…,Sun Jul 01 22:02:42 +0000 2018,@CNN,"{'neg': 0.095, 'neu': 0.905, 'pos': 0.0, 'compound': -0.2235}",0.0,0.095,0.905,-0.2235
+45,"RT @SebGorka: This is @CNN. 
+
+https://t.co/mXTkZP5Kdl",Sun Jul 01 22:02:41 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+46,@CNN She must be a Nazi then...,Sun Jul 01 22:02:40 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+47,"RT @anofiscal: @sundayschild22 @MalcolmNance @CNN @MSNBC @nbc @FBI @CBSNews @ABC @BBC @NPR What Just in Time said, all the way.  Y'all need…",Sun Jul 01 22:02:38 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+48,"@CNN @brianstelter why NO mention @BarackObama separated 90,000 children at the border ? Because you sucked up to O… https://t.co/PzAz0T0DRf",Sun Jul 01 22:02:37 +0000 2018,@CNN,"{'neg': 0.259, 'neu': 0.741, 'pos': 0.0, 'compound': -0.7125}",0.0,0.259,0.741,-0.7125
+49,"RT @RVAwonk: bloody hell, @CNN. This is a wholly inaccurate &amp; irresponsible take on what happened in Portland on Saturday. 
+
+Don't conflate…",Sun Jul 01 22:02:35 +0000 2018,@CNN,"{'neg': 0.366, 'neu': 0.634, 'pos': 0.0, 'compound': -0.886}",0.0,0.366,0.634,-0.886
+50,"RT @CNN: A migrant who earned the nickname ""Spider-Man"" after scaling a building to save a child dangling from a balcony has started a new…",Sun Jul 01 22:02:35 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.856, 'pos': 0.144, 'compound': 0.4939}",0.144,0.0,0.856,0.4939
+51,@CNN  https://t.co/5jOxN75H5J,Sun Jul 01 22:02:33 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+52,"RT @andrewklavan: ""I want people to look at me,"" he explained. ""Because I'm Jim Acosta."" .@CNN's Jim 'Look-at-me-I'm-Jim' @Acosta defends h…",Sun Jul 01 22:02:32 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.939, 'pos': 0.061, 'compound': 0.0772}",0.061,0.0,0.939,0.0772
+53,"RT @CNN: A migrant who earned the nickname ""Spider-Man"" after scaling a building to save a child dangling from a balcony has started a new…",Sun Jul 01 22:02:32 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.856, 'pos': 0.144, 'compound': 0.4939}",0.144,0.0,0.856,0.4939
+54,RT @infoCinelandia: WTF @CNN this is so so wrong. Completely incorrect. Not even close. #VotaMexico https://t.co/XbKnohOvP2,Sun Jul 01 22:02:31 +0000 2018,@CNN,"{'neg': 0.388, 'neu': 0.612, 'pos': 0.0, 'compound': -0.8712}",0.0,0.388,0.612,-0.8712
+55,"RT @CNN: A migrant who earned the nickname ""Spider-Man"" after scaling a building to save a child dangling from a balcony has started a new…",Sun Jul 01 22:02:30 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.856, 'pos': 0.144, 'compound': 0.4939}",0.144,0.0,0.856,0.4939
+56,"RT @CNN: Nigerian actress Omotola Jalade-Ekehinde has been invited to become a member of the Academy of Motion Picture Arts and Sciences, w…",Sun Jul 01 22:02:29 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+57,@TimNaftali @CNN @AnaCabrera Nice. ICE shouldn't exist.  It's only 15years-old what have they done worth a shit? NOTHING.,Sun Jul 01 22:02:27 +0000 2018,@CNN,"{'neg': 0.161, 'neu': 0.628, 'pos': 0.211, 'compound': 0.0258}",0.211,0.161,0.628,0.0258
+58,RT @CNN: Sen. Tammy Duckworth doesn't join Democratic colleagues in calls to abolish US Immigration and Customs Enforcement https://t.co/DR…,Sun Jul 01 22:02:27 +0000 2018,@CNN,"{'neg': 0.095, 'neu': 0.905, 'pos': 0.0, 'compound': -0.2235}",0.0,0.095,0.905,-0.2235
+59,@xThexPhenom @CNN Not yet. But it is on the way.Maybe the world too.,Sun Jul 01 22:02:25 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+60,"RT @wkamaubell: TONIGHT on the season finale of #UnitedShades on @cnn at 10p ET / 7p PT / 4p Hawaii time, I'm headed to Hawaii to unlearn w…",Sun Jul 01 22:02:24 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+61,@andrewklavan @CNN @Acosta Those two in one room together? ! It's the perfect storm of vain idiocy.,Sun Jul 01 22:02:24 +0000 2018,@CNN,"{'neg': 0.135, 'neu': 0.673, 'pos': 0.192, 'compound': 0.2942}",0.192,0.135,0.673,0.2942
+62,Trump is clueless about the global market @CNN https://t.co/C8vAKsrmFw,Sun Jul 01 22:02:24 +0000 2018,@CNN,"{'neg': 0.238, 'neu': 0.762, 'pos': 0.0, 'compound': -0.3612}",0.0,0.238,0.762,-0.3612
+63,RT @CNN: US and North Korean officials meet to discuss implementing agreement between countries https://t.co/pzgxlyNRjk https://t.co/r4FCHG…,Sun Jul 01 22:02:22 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.824, 'pos': 0.176, 'compound': 0.4939}",0.176,0.0,0.824,0.4939
+64,@realDonaldTrump @MariaBartiromo @FoxNews Why only @FoxNews  mr president ? Are you afraid to answer some real ques… https://t.co/AhBGWtgpXf,Sun Jul 01 22:02:19 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+65,"One injured in Iran water protests, interior minister says  @CNN https://t.co/DCAIr0m2Vh",Sun Jul 01 22:02:15 +0000 2018,@CNN,"{'neg': 0.338, 'neu': 0.662, 'pos': 0.0, 'compound': -0.5574}",0.0,0.338,0.662,-0.5574
+66,@BrannanJr @socityjim @CNN @bennydiego So you descend from a Mormon Bigsmist? Not to mention he was a newspaper man… https://t.co/ojECoCbS4e,Sun Jul 01 22:02:11 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+67,RT @CNN: Sen. Tammy Duckworth doesn't join Democratic colleagues in calls to abolish US Immigration and Customs Enforcement https://t.co/DR…,Sun Jul 01 22:02:11 +0000 2018,@CNN,"{'neg': 0.095, 'neu': 0.905, 'pos': 0.0, 'compound': -0.2235}",0.0,0.095,0.905,-0.2235
+68,@CNN @CNNOpinion  https://t.co/XW7nVk5g5s,Sun Jul 01 22:02:10 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+69,"RT @We_R_an0nym0us: WHO is #QAnon ?
+WHO WILL FINALLY ASK @realDonaldTrump ?
+hey @CNN #FakeNews  why don't YOU ask huh?
+
+WHO IS #QAnon ?
+Cou…",Sun Jul 01 22:02:09 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+70,"RT @DHUNTtweets: @g7 HAPPY CANADA DAY! @DesjardinsGroup hopeful for more tax evasion methods, Jamaican banks.. Thanks for bailing out @TD_C…",Sun Jul 01 22:02:05 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.609, 'pos': 0.391, 'compound': 0.8984}",0.391,0.0,0.609,0.8984
+71,"RT @CNN: A migrant who earned the nickname ""Spider-Man"" after scaling a building to save a child dangling from a balcony has started a new…",Sun Jul 01 22:02:05 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.856, 'pos': 0.144, 'compound': 0.4939}",0.144,0.0,0.856,0.4939
+72,@CNN Remember she said that about health care and still voted for it.,Sun Jul 01 22:02:05 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.789, 'pos': 0.211, 'compound': 0.4939}",0.211,0.0,0.789,0.4939
+73,"RT @CNN: A migrant who earned the nickname ""Spider-Man"" after scaling a building to save a child dangling from a balcony has started a new…",Sun Jul 01 22:02:04 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.856, 'pos': 0.144, 'compound': 0.4939}",0.144,0.0,0.856,0.4939
+74,@CNN Yep. Must be dozens,Sun Jul 01 22:02:01 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.296}",0.355,0.0,0.645,0.296
+75,RT @CNN: Former pro wrestler Matt Cappotelli has died at 38 after battle with brain cancer https://t.co/pbd76KFnea https://t.co/FEfMIzu8mI,Sun Jul 01 22:01:58 +0000 2018,@CNN,"{'neg': 0.414, 'neu': 0.586, 'pos': 0.0, 'compound': -0.891}",0.0,0.414,0.586,-0.891
+76,"RT @ReliableSources: ""People are going to yell at us. They're going to tell us to go home. We're not going to go home."" -@Acosta just now o…",Sun Jul 01 22:01:57 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+77,"RT @RVAwonk: bloody hell, @CNN. This is a wholly inaccurate &amp; irresponsible take on what happened in Portland on Saturday. 
+
+Don't conflate…",Sun Jul 01 22:01:57 +0000 2018,@CNN,"{'neg': 0.366, 'neu': 0.634, 'pos': 0.0, 'compound': -0.886}",0.0,0.366,0.634,-0.886
+78,RT @CNN: Sen. Tammy Duckworth doesn't join Democratic colleagues in calls to abolish US Immigration and Customs Enforcement https://t.co/DR…,Sun Jul 01 22:01:56 +0000 2018,@CNN,"{'neg': 0.095, 'neu': 0.905, 'pos': 0.0, 'compound': -0.2235}",0.0,0.095,0.905,-0.2235
+79,@CNN HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA… https://t.co/IcGf8ywM63,Sun Jul 01 22:01:52 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+80,@CNN FREE MASON COPS shooting Americans in Portland... U.S. COLONY MSM NEWS  is total Media Black OUT on this JADE… https://t.co/RqcAQxIb3H,Sun Jul 01 22:01:51 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.832, 'pos': 0.168, 'compound': 0.6166}",0.168,0.0,0.832,0.6166
+81,"RT @RVAwonk: bloody hell, @CNN. This is a wholly inaccurate &amp; irresponsible take on what happened in Portland on Saturday. 
+
+Don't conflate…",Sun Jul 01 22:01:51 +0000 2018,@CNN,"{'neg': 0.366, 'neu': 0.634, 'pos': 0.0, 'compound': -0.886}",0.0,0.366,0.634,-0.886
+82,"RT @CNN: A migrant who earned the nickname ""Spider-Man"" after scaling a building to save a child dangling from a balcony has started a new…",Sun Jul 01 22:01:50 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.856, 'pos': 0.144, 'compound': 0.4939}",0.144,0.0,0.856,0.4939
+83,RT @CNN: Here are the top moments from the Families Belong Together marches https://t.co/D4Zb3kIVgd https://t.co/lJaODERrxi,Sun Jul 01 22:01:50 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.886, 'pos': 0.114, 'compound': 0.2023}",0.114,0.0,0.886,0.2023
+84,"RT @ElderLansing: Did I see Kamala Harris, Tim Scott, and Cory Booker call for hate crime legislation when these four racist Chicago thugs,…",Sun Jul 01 22:01:49 +0000 2018,@CNN,"{'neg': 0.371, 'neu': 0.629, 'pos': 0.0, 'compound': -0.9042}",0.0,0.371,0.629,-0.9042
+85,@CNN She can think for herself.   Unlike many liberals,Sun Jul 01 22:01:49 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+86,RT @spooney35: @amjoyshow #AMJoy @MeetThePress @ThisWeekABC @CNN @cspanwj @ReliableSources @FareedZakaria @FoxNewsSunday @60Minutes #MTP @F…,Sun Jul 01 22:01:48 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+87,"RT @liamvincent26: @CNN Good, the Democrats have become total extremists.",Sun Jul 01 22:01:48 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.4404}",0.244,0.0,0.756,0.4404
+88,@andrewklavan @CNN @Acosta Childish Jim Acosta is second only to childish and narcissist donald trump. These two were meant for each other.,Sun Jul 01 22:01:48 +0000 2018,@CNN,"{'neg': 0.18, 'neu': 0.82, 'pos': 0.0, 'compound': -0.5267}",0.0,0.18,0.82,-0.5267
+89,"RT @CNN: Ancient Pompeii victim not crushed by stone block, after all, archaeologists say https://t.co/bhZH0YHSi4 https://t.co/ouNKBIpC8F",Sun Jul 01 22:01:46 +0000 2018,@CNN,"{'neg': 0.246, 'neu': 0.639, 'pos': 0.115, 'compound': -0.3956}",0.115,0.246,0.639,-0.3956
+90,@bee_langbein @ReliableSources @Acosta @jelani9 @feministabulous @rachaelpacella @PhilDavis_CG @joshuamckerrow… https://t.co/1vWhZznqDA,Sun Jul 01 22:01:45 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+91,"RT @CNN: Nigerian actress Omotola Jalade-Ekehinde has been invited to become a member of the Academy of Motion Picture Arts and Sciences, w…",Sun Jul 01 22:01:45 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+92,@CNN Still pushing the agenda of this corrupt politician! No wonder ppl no longer TRUST media! https://t.co/LWOPUJckeB,Sun Jul 01 22:01:43 +0000 2018,@CNN,"{'neg': 0.217, 'neu': 0.608, 'pos': 0.175, 'compound': 0.2998}",0.175,0.217,0.608,0.2998
+93,Thailand cave search: Divers close in on missing soccer team @CNN https://t.co/Q2T3YBqxAY,Sun Jul 01 22:01:40 +0000 2018,@CNN,"{'neg': 0.167, 'neu': 0.833, 'pos': 0.0, 'compound': -0.296}",0.0,0.167,0.833,-0.296
+94,@OwenBrennan @CNN @MSNBC @nbc @ABC @CBS @NPR @washingtonpost @nytimes Or: two obvious takes doesn’t make it worth i… https://t.co/nODx5kbtj3,Sun Jul 01 22:01:40 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.905, 'pos': 0.095, 'compound': 0.2263}",0.095,0.0,0.905,0.2263
+95,"RT @CNN: Arnold Schwarzenegger mocks Trump's attempts to ""rescue the coal industry,"" asking in a video message what the US President will b…",Sun Jul 01 22:01:40 +0000 2018,@CNN,"{'neg': 0.114, 'neu': 0.76, 'pos': 0.125, 'compound': 0.0772}",0.125,0.114,0.76,0.0772
+96,"@CNN Everyone do your bit by registering to vote, and voting! trump and his ilk got in due to complacency 👎🏻",Sun Jul 01 22:01:35 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+97,@CNN FREE MASON COPS shooting Americans in Portland... U.S. COLONY MSM NEWS  is total Media Black OUT on this JADE… https://t.co/Sl5OMnarnR,Sun Jul 01 22:01:35 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.832, 'pos': 0.168, 'compound': 0.6166}",0.168,0.0,0.832,0.6166
+98,"RT @ElderLansing: Did I see Kamala Harris, Tim Scott, and Cory Booker call for hate crime legislation when these four racist Chicago thugs,…",Sun Jul 01 22:01:33 +0000 2018,@CNN,"{'neg': 0.371, 'neu': 0.629, 'pos': 0.0, 'compound': -0.9042}",0.0,0.371,0.629,-0.9042
+99,RT @President1Trump: WOW @CNN’s own @CillizzaCNN touts @POTUS historical accomplishments! Titles his article Trump is nailing this presiden…,Sun Jul 01 22:01:32 +0000 2018,@CNN,"{'neg': 0.05, 'neu': 0.73, 'pos': 0.22, 'compound': 0.6932}",0.22,0.05,0.73,0.6932
+0,"@flupton @LBC @BBC I used to love listening to him when @bbc5live started, top broadcaster 👍",Sun Jul 01 22:03:44 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 0.667, 'pos': 0.333, 'compound': 0.7184}",0.333,0.0,0.667,0.7184
+1,RT @DerbyChrisW: The rightwing bias of the BBC's political commentary laid bare. Come on @BBC you can and you should do better than this. h…,Sun Jul 01 22:03:30 +0000 2018,@BBC,"{'neg': 0.051, 'neu': 0.842, 'pos': 0.106, 'compound': 0.3612}",0.106,0.051,0.842,0.3612
+2,PLEASE RT: My brother and his colleague will be driving from Chatteris (UK) to Tokyo in August to raise money for… https://t.co/ZuCmhx8o6d,Sun Jul 01 22:03:30 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 0.874, 'pos': 0.126, 'compound': 0.4648}",0.126,0.0,0.874,0.4648
+3,@Fuenteprado @SPazosVidal @sihomesi @rtve @dwnews @BBC Supoño q insinúas q llo pregunte a @xabierfortes ou así?,Sun Jul 01 22:03:05 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+4,"RT @anofiscal: @sundayschild22 @MalcolmNance @CNN @MSNBC @nbc @FBI @CBSNews @ABC @BBC @NPR What Just in Time said, all the way.  Y'all need…",Sun Jul 01 22:02:38 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+5,"Excited to be quoted in @BBC for the first time in @BBC_Travel talking about American culture 
+
+#July4thweekend… https://t.co/vmwsPgSYM5",Sun Jul 01 22:02:19 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 0.876, 'pos': 0.124, 'compound': 0.34}",0.124,0.0,0.876,0.34
+6,"RT @MSonmul: 👇👇👇
+@cnni @bbc @AP @Reuters @dwnews @FoxNews @ABC @NBCNews @CBS @hrw @ariannahuff @OSCE_RFoM @davidakaye @AFP @dwnews @Sputnik…",Sun Jul 01 22:01:41 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+7,Big coup for @LBC if the rumours are true. Big loss for @BBC https://t.co/XcbMnOSpN0,Sun Jul 01 22:01:38 +0000 2018,@BBC,"{'neg': 0.135, 'neu': 0.702, 'pos': 0.164, 'compound': 0.128}",0.164,0.135,0.702,0.128
+8,"@Fuenteprado @SPazosVidal @sihomesi @rtve @dwnews @BBC Pois grazas, cari. Intentarei facelo.",Sun Jul 01 22:01:22 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+9,RT @DerbyChrisW: The rightwing bias of the BBC's political commentary laid bare. Come on @BBC you can and you should do better than this. h…,Sun Jul 01 22:01:00 +0000 2018,@BBC,"{'neg': 0.051, 'neu': 0.842, 'pos': 0.106, 'compound': 0.3612}",0.106,0.051,0.842,0.3612
+10,"@BBC6Music @BBC In June, @H_ZETTRIO was superb.They had a show in Montreaw Jazz in 2014. 
+Coming big event for me,… https://t.co/sRTHYtbabS",Sun Jul 01 22:00:59 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+11,"@DerbyChrisW @BBC If I wanted to donate to the Tory party, I'd do it through the front door. Cancelled my TV licens… https://t.co/Im6l1qfyPr",Sun Jul 01 22:00:54 +0000 2018,@BBC,"{'neg': 0.081, 'neu': 0.81, 'pos': 0.109, 'compound': 0.1779}",0.109,0.081,0.81,0.1779
+12,RT @BBC: 🌳 How trees secretly talk to each other.  https://t.co/IuLAvWPwKj,Sun Jul 01 22:00:23 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+13,RT @BBC: 🌳 How trees secretly talk to each other.  https://t.co/IuLAvWPwKj,Sun Jul 01 22:00:01 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+14,RT @DerbyChrisW: The rightwing bias of the BBC's political commentary laid bare. Come on @BBC you can and you should do better than this. h…,Sun Jul 01 21:59:35 +0000 2018,@BBC,"{'neg': 0.051, 'neu': 0.842, 'pos': 0.106, 'compound': 0.3612}",0.106,0.051,0.842,0.3612
+15,RT @DerbyChrisW: The rightwing bias of the BBC's political commentary laid bare. Come on @BBC you can and you should do better than this. h…,Sun Jul 01 21:59:34 +0000 2018,@BBC,"{'neg': 0.051, 'neu': 0.842, 'pos': 0.106, 'compound': 0.3612}",0.106,0.051,0.842,0.3612
+16,"RT @MSonmul: 👇👇👇
+@cnni @bbc @AP @Reuters @dwnews @FoxNews @ABC @NBCNews @CBS @hrw @ariannahuff @OSCE_RFoM @davidakaye @AFP @dwnews @Sputnik…",Sun Jul 01 21:59:33 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+17,"@Torcinho @SPazosVidal @sihomesi @rtve @dwnews @BBC Pregunta en otro apartado,  querida. Veras cómo te enteras.",Sun Jul 01 21:59:09 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+18,"RT @sanityandsafety: @Feudaltimes So what happens if women everywhere issue their own linguistic demands, to be ID-ed as ""Women Born As Wom…",Sun Jul 01 21:58:42 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+19,"RT @BBC: Half of all people who drown never intended to be in the water.
+
+Knowing how to stay afloat could save your life 👇 https://t.co/94…",Sun Jul 01 21:58:05 +0000 2018,@BBC,"{'neg': 0.124, 'neu': 0.769, 'pos': 0.107, 'compound': -0.128}",0.107,0.124,0.769,-0.128
+20,Finally got round to watching the excellent @BBC doc on managing England. The thread that runs through it is how vi… https://t.co/s73DN5UygU,Sun Jul 01 21:57:55 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 0.85, 'pos': 0.15, 'compound': 0.5719}",0.15,0.0,0.85,0.5719
+21,@coe @RTLde @RTLFrance @RTLnieuws @AmnestyUK @amnestyitalia @amnestydk @AIGlobalEthics @hrw @UN @UNHumanRights… https://t.co/D6BiCjWOKr,Sun Jul 01 21:57:54 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+22,@Ziad_Ghasan @RussiaConnects @EvaKBartlett @VanessaBeeley @Partisangirl @sahouraxo @sarahabed84 @syria24media… https://t.co/tdIcvmkIhU,Sun Jul 01 21:57:41 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+23,RT @BBC: 🎧✊ DJ Switch has big plans for the future. https://t.co/b5CY3vEX7Q,Sun Jul 01 21:57:37 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+24,“Bill Hicks - Its just a ride” on #Vimeo https://t.co/awuJqTu5Th  @ap @DefenseIntel @bbc @tassagency_en @XHNews… https://t.co/XOKmtScYfb,Sun Jul 01 21:57:31 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+25,"RT @buzhna: Good for once to hear the truth about NHS privatisation @BBC , from Tony O'Sullivan @keepnhspublic. 47 minutes in: https://t.co…",Sun Jul 01 21:57:08 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 0.785, 'pos': 0.215, 'compound': 0.6369}",0.215,0.0,0.785,0.6369
+26,"@mwendling @TimInHonolulu @TotalAssumption @FBI @CassandraRules That’s completely inaccurate, Mike cc @bbc… https://t.co/9WNKdjbtdm",Sun Jul 01 21:56:49 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+27,@DVATW Disgusting @bbc,Sun Jul 01 21:56:41 +0000 2018,@BBC,"{'neg': 0.63, 'neu': 0.37, 'pos': 0.0, 'compound': -0.5267}",0.0,0.63,0.37,-0.5267
+28,@BBC @CNN @ALJAZERA_tv @welt @RTLde @faznet @DerSPIEGEL @lemondefr @sternde @guardian @nytimes @washingtonpost… https://t.co/V9PrN0f83S,Sun Jul 01 21:56:37 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+29,RT @DerbyChrisW: The rightwing bias of the BBC's political commentary laid bare. Come on @BBC you can and you should do better than this. h…,Sun Jul 01 21:56:16 +0000 2018,@BBC,"{'neg': 0.051, 'neu': 0.842, 'pos': 0.106, 'compound': 0.3612}",0.106,0.051,0.842,0.3612
+30,@Fuenteprado @SPazosVidal @sihomesi @rtve @dwnews @BBC E agora por q queren alguén da casa?,Sun Jul 01 21:56:11 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+31,Has the #AUSummit reached any decision on the civil war in #Cameroon ? @BBC_CurrAff @BBC @BBCAfrica @_AfricanUnion,Sun Jul 01 21:56:07 +0000 2018,@BBC,"{'neg': 0.202, 'neu': 0.725, 'pos': 0.073, 'compound': -0.5423}",0.073,0.202,0.725,-0.5423
+32,RT @MxActivist: Here’s the @BBC account settings page being good at gender. You can select “other” and then optionally type in your gender.…,Sun Jul 01 21:55:11 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 0.884, 'pos': 0.116, 'compound': 0.4404}",0.116,0.0,0.884,0.4404
+33,Siamo grandi e si vede! 💪💪💪 Non molliamo e anche questo si vede! Siamo stanchi certo ovvio! Ma non significa che la… https://t.co/EQTUUcckP4,Sun Jul 01 21:55:06 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+34,RT @DerbyChrisW: The rightwing bias of the BBC's political commentary laid bare. Come on @BBC you can and you should do better than this. h…,Sun Jul 01 21:55:02 +0000 2018,@BBC,"{'neg': 0.051, 'neu': 0.842, 'pos': 0.106, 'compound': 0.3612}",0.106,0.051,0.842,0.3612
+35,"@Feudaltimes So what happens if women everywhere issue their own linguistic demands, to be ID-ed as ""Women Born As… https://t.co/rlcIBbP9F2",Sun Jul 01 21:54:35 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+36,"RT @fxdurandy: Indira Gandhi : « Rien n’est impossible. »
+🗒 Jacques-Olivier Chattard
+📅 14 Jan 1969
+@INCIndia @BBC @Inafr_officiel
+https://t…",Sun Jul 01 21:54:19 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+37,@keithwafc123 @BBC @RomeshRanga @BBCTwo His shite what?,Sun Jul 01 21:53:43 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+38,"RT @judithnwana: #French Minister visits Buea #SouthernCameroons SW region, displays banner in French w/ ongoing ""Anglophone"" crisis about…",Sun Jul 01 21:53:28 +0000 2018,@BBC,"{'neg': 0.194, 'neu': 0.806, 'pos': 0.0, 'compound': -0.6249}",0.0,0.194,0.806,-0.6249
+39,Watching television tonight and @AlexScott and @danroan are two great reasons for buying my @BBC license,Sun Jul 01 21:53:03 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 0.785, 'pos': 0.215, 'compound': 0.6249}",0.215,0.0,0.785,0.6249
+40,"RT @MSonmul: 👇👇👇
+@cnni @bbc @AP @Reuters @dwnews @FoxNews @ABC @NBCNews @CBS @hrw @ariannahuff @OSCE_RFoM @davidakaye @AFP @dwnews @Sputnik…",Sun Jul 01 21:52:39 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+41,RT @ashavinayaraj: @fxdurandy @INCIndia @BBC @Inafr_officiel What an iconic woman #Indira  was.  I am floored everytime I listen to her spe…,Sun Jul 01 21:52:17 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+42,@Ti_Dinzeo @_NatashaDevon @BBCTwo @BBC Well sadly they're doing doing well when it counts.,Sun Jul 01 21:52:11 +0000 2018,@BBC,"{'neg': 0.165, 'neu': 0.588, 'pos': 0.247, 'compound': 0.1027}",0.247,0.165,0.588,0.1027
+43,"RT @TFeminista_: #SexismoPeriodístico
+@BBCCarrie lamenta que hay una diferencia “indefendible” entre el salario de hombres y #mujeres en lo…",Sun Jul 01 21:51:40 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+44,RT @cedoziemm: @cedoziemm @emekus2000 @coe @EmekaGift @Amaka_Ekwo @NkirukaNistoran @BiafraTelegraph @thebiafratimes @BernerZeitung @washing…,Sun Jul 01 21:51:39 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+45,"Watching the @BBC @FIFAWorldCup highlights of the #Russia #Spain game, the #Russians played as dirty as their #President. #Shameful",Sun Jul 01 21:51:35 +0000 2018,@BBC,"{'neg': 0.13, 'neu': 0.762, 'pos': 0.108, 'compound': -0.128}",0.108,0.13,0.762,-0.128
+46,RT @DerbyChrisW: The rightwing bias of the BBC's political commentary laid bare. Come on @BBC you can and you should do better than this. h…,Sun Jul 01 21:51:30 +0000 2018,@BBC,"{'neg': 0.051, 'neu': 0.842, 'pos': 0.106, 'compound': 0.3612}",0.106,0.051,0.842,0.3612
+47,@Joanne_Lake How dare @BBC &amp; @itvfootball broadcast people being happy watching football. The general public should… https://t.co/AsuvhDGmQz,Sun Jul 01 21:51:22 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 0.812, 'pos': 0.188, 'compound': 0.5719}",0.188,0.0,0.812,0.5719
+48,RT @ashavinayaraj: @fxdurandy @INCIndia @BBC @Inafr_officiel What an iconic woman #Indira  was.  I am floored everytime I listen to her spe…,Sun Jul 01 21:51:17 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+49,"I love the @BBC, my employer for a decade, but this is a story? Seriously? Come on. World Cup 2018: Did Vladimir Pu… https://t.co/H6gyy0zXSZ",Sun Jul 01 21:51:13 +0000 2018,@BBC,"{'neg': 0.085, 'neu': 0.791, 'pos': 0.123, 'compound': 0.2287}",0.123,0.085,0.791,0.2287
+50,@Torcinho @SPazosVidal @sihomesi @rtve @dwnews @BBC No. El presidente de la corporacion( antes director general) ex… https://t.co/NSxOH4Lu7D,Sun Jul 01 21:50:58 +0000 2018,@BBC,"{'neg': 0.121, 'neu': 0.879, 'pos': 0.0, 'compound': -0.296}",0.0,0.121,0.879,-0.296
+51,RT @juwon2017: Mr Tolu Ogunlesi suddenly decided to delete his tweet against former President @GEJonathan just because posterity is here to…,Sun Jul 01 21:50:35 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+52,"RT @MSonmul: 👇👇👇
+@cnni @bbc @AP @Reuters @dwnews @FoxNews @ABC @NBCNews @CBS @hrw @ariannahuff @OSCE_RFoM @davidakaye @AFP @dwnews @Sputnik…",Sun Jul 01 21:50:33 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+53,@ap @DefenseIntel @bbc @tassagency_en @XHNews @Reuters @FoxNews @cnn @msnbc @AlJazeera @USArmy @USNationalGuard… https://t.co/ji3Y2P8rqF,Sun Jul 01 21:50:23 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+54,"👇👇👇
+@cnni @bbc @AP @Reuters @dwnews @FoxNews @ABC @NBCNews @CBS @hrw @ariannahuff @OSCE_RFoM @davidakaye @AFP… https://t.co/xijEvKB8pd",Sun Jul 01 21:49:39 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+55,@fxdurandy @INCIndia @BBC @Inafr_officiel What an iconic woman #Indira  was.  I am floored everytime I listen to her speak.,Sun Jul 01 21:49:35 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+56,"@BBC, your Owen Bennett Jones was on about the practice runs leading to Benazir Bhutto assassination, but stopped,… https://t.co/Yy0XAt2pkC",Sun Jul 01 21:49:11 +0000 2018,@BBC,"{'neg': 0.12, 'neu': 0.88, 'pos': 0.0, 'compound': -0.3506}",0.0,0.12,0.88,-0.3506
+57,@AJEnglish @AlJazeera @DailySabah @sabena_siddiqi @RT_com @khaleejtimes @BBC @abc @GOVUK @JustinTrudeau @australian… https://t.co/zI1QocKCQM,Sun Jul 01 21:49:10 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+58,RT @DerbyChrisW: The rightwing bias of the BBC's political commentary laid bare. Come on @BBC you can and you should do better than this. h…,Sun Jul 01 21:49:02 +0000 2018,@BBC,"{'neg': 0.051, 'neu': 0.842, 'pos': 0.106, 'compound': 0.3612}",0.106,0.051,0.842,0.3612
+59,"RT @BIAFRANFORREAL: How dare you @BBC?
+HausaFulanis armed to the teeth attacked 11(Eleven) christian villages in Plateau State,Nigeria, kil…",Sun Jul 01 21:48:56 +0000 2018,@BBC,"{'neg': 0.143, 'neu': 0.857, 'pos': 0.0, 'compound': -0.4588}",0.0,0.143,0.857,-0.4588
+60,RT @DerbyChrisW: The rightwing bias of the BBC's political commentary laid bare. Come on @BBC you can and you should do better than this. h…,Sun Jul 01 21:48:36 +0000 2018,@BBC,"{'neg': 0.051, 'neu': 0.842, 'pos': 0.106, 'compound': 0.3612}",0.106,0.051,0.842,0.3612
+61,"RT @HealthFdn: How good is the #NHS?
+
+Read the first of our five briefings with @TheIFS, @TheKingsFund and @NuffieldTrust for the @BBC to m…",Sun Jul 01 21:48:12 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 0.888, 'pos': 0.112, 'compound': 0.4404}",0.112,0.0,0.888,0.4404
+62,"RT @RussiaConnects: For ACCURATE reporting on #Syria follow:
+
+@EvaKBartlett
+@VanessaBeeley
+@timand2037
+@Partisangirl
+@JohnPilger
+@sahouraxo…",Sun Jul 01 21:48:02 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+63,"RT @PatricksPeople: By not openly and freely reporting the #darkmoney story
+@BBC
+whether @BBCNews or @BBCNewsScotland
+are not being patriot…",Sun Jul 01 21:48:00 +0000 2018,@BBC,"{'neg': 0.112, 'neu': 0.888, 'pos': 0.0, 'compound': -0.3412}",0.0,0.112,0.888,-0.3412
+64,"RT @sobran_dass: #सफलहुआ_कबीरभंडारा
+मीडिया वालो ने #28जून_कबिरप्रकटदिवस पर #संतरामपालजीमहाराज द्वारा हरियाणा रोहतक मे किये विशालभंडारे की…",Sun Jul 01 21:47:56 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+65,"RT @BBC: A heartbreaking look at how our discarded plastics are killing wildlife.
+#PlasticsAction https://t.co/R3lZNSDtMa",Sun Jul 01 21:47:49 +0000 2018,@BBC,"{'neg': 0.471, 'neu': 0.529, 'pos': 0.0, 'compound': -0.8689}",0.0,0.471,0.529,-0.8689
+66,@kittyBops75 @BBC because it was written into the 6th Poldark novel The Angry Tide all written in the 1940s by Winston Graham,Sun Jul 01 21:47:32 +0000 2018,@BBC,"{'neg': 0.129, 'neu': 0.781, 'pos': 0.09, 'compound': -0.25}",0.09,0.129,0.781,-0.25
+67,@aev1609 @_NatashaDevon @BBCTwo @BBC I believe it’s part of their charter they HAVE to be balanced or they lose their funding.,Sun Jul 01 21:47:27 +0000 2018,@BBC,"{'neg': 0.124, 'neu': 0.876, 'pos': 0.0, 'compound': -0.4019}",0.0,0.124,0.876,-0.4019
+68,@BBC @RomeshRanga @BBCTwo Don't worry I've got it on series link,Sun Jul 01 21:47:12 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 0.806, 'pos': 0.194, 'compound': 0.3412}",0.194,0.0,0.806,0.3412
+69,@Fuenteprado @SPazosVidal @sihomesi @rtve @dwnews @BBC ahhh! E ata o d agora sempre foi alguén da casa?,Sun Jul 01 21:47:06 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+70,"RT @RussiaConnects: For ACCURATE reporting on #Syria follow:
+
+@EvaKBartlett
+@VanessaBeeley
+@timand2037
+@Partisangirl
+@JohnPilger
+@sahouraxo…",Sun Jul 01 21:46:49 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+71,@Iain643 @gregalach @BBCScotlandNews @BBCScotland I refuse to pay for @BBC as I don't support Tory propaganda machi… https://t.co/Sqs8T87a8I,Sun Jul 01 21:46:46 +0000 2018,@BBC,"{'neg': 0.299, 'neu': 0.612, 'pos': 0.089, 'compound': -0.4798}",0.089,0.299,0.612,-0.4798
+72,RT @DerbyChrisW: The rightwing bias of the BBC's political commentary laid bare. Come on @BBC you can and you should do better than this. h…,Sun Jul 01 21:46:28 +0000 2018,@BBC,"{'neg': 0.051, 'neu': 0.842, 'pos': 0.106, 'compound': 0.3612}",0.106,0.051,0.842,0.3612
+73,I’m mesmerized. And I can’t defend why. @BBC ‘s Blue Planet 2.,Sun Jul 01 21:46:27 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+74,RT @SaHreports: @BBC @nytimes @BBCTwo *cough cough* https://t.co/RY4prPSWhe,Sun Jul 01 21:45:52 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+75,"RT @back_the_BBC: @willjleader @afneil .@bbc has and does try subscription services like @netflix internationally , and they've all made a…",Sun Jul 01 21:45:47 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 0.878, 'pos': 0.122, 'compound': 0.3612}",0.122,0.0,0.878,0.3612
+76,"@willjleader @afneil .@bbc has and does try subscription services like @netflix internationally , and they've all m… https://t.co/PQkMKG0HMN",Sun Jul 01 21:45:30 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 0.865, 'pos': 0.135, 'compound': 0.3612}",0.135,0.0,0.865,0.3612
+77,@RestorePyramids #ancientegypt #History The *only* known hieroglyph in Khufu's Great Pyramid was made by a work cre… https://t.co/9babBCX2AY,Sun Jul 01 21:45:24 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 0.796, 'pos': 0.204, 'compound': 0.6249}",0.204,0.0,0.796,0.6249
+78,RT @DerbyChrisW: The rightwing bias of the BBC's political commentary laid bare. Come on @BBC you can and you should do better than this. h…,Sun Jul 01 21:45:09 +0000 2018,@BBC,"{'neg': 0.051, 'neu': 0.842, 'pos': 0.106, 'compound': 0.3612}",0.106,0.051,0.842,0.3612
+79,@DiamondandSilk ASK WHY THE DNC &amp; MSM DO NOT CARE ABOUT VETERANS CHILDREN &amp; WIDOWS  ???? @RealJamesWoods… https://t.co/LAfwO3JFCt,Sun Jul 01 21:44:38 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 0.777, 'pos': 0.223, 'compound': 0.7089}",0.223,0.0,0.777,0.7089
+80,RT @DerbyChrisW: The rightwing bias of the BBC's political commentary laid bare. Come on @BBC you can and you should do better than this. h…,Sun Jul 01 21:44:29 +0000 2018,@BBC,"{'neg': 0.051, 'neu': 0.842, 'pos': 0.106, 'compound': 0.3612}",0.106,0.051,0.842,0.3612
+81,@john_p_d @back_the_BBC @DaveLeeBBC @amolrajanBBC @LBC @eddiemair @JWhittingdale @BBC If he did good. It is an abso… https://t.co/CQ3cqs5KkZ,Sun Jul 01 21:44:21 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 0.847, 'pos': 0.153, 'compound': 0.4404}",0.153,0.0,0.847,0.4404
+82,RT @BBC: 🌳 How trees secretly talk to each other.  https://t.co/IuLAvWPwKj,Sun Jul 01 21:43:40 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+83,@Torcinho @SPazosVidal @sihomesi @rtve @dwnews @BBC Lo que no me gusta es que no entiendan que el@presidente de la… https://t.co/Skm6z43bxW,Sun Jul 01 21:43:34 +0000 2018,@BBC,"{'neg': 0.196, 'neu': 0.804, 'pos': 0.0, 'compound': -0.5267}",0.0,0.196,0.804,-0.5267
+84,RT @juwon2017: Mr Tolu Ogunlesi suddenly decided to delete his tweet against former President @GEJonathan just because posterity is here to…,Sun Jul 01 21:43:21 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+85,"@JimMFelton was all over the @BBC with a big fanfare ""your caring #Tory Govt"". This is the secong time they'vevtried this scam?",Sun Jul 01 21:42:47 +0000 2018,@BBC,"{'neg': 0.165, 'neu': 0.715, 'pos': 0.12, 'compound': -0.2903}",0.12,0.165,0.715,-0.2903
+86,RT @AnayetMridha: #DictatorHasina govt trying to kill #BegumZiaBd in void jail &amp; inhuman situation @mreza07 @Wahid_8461 @UNHumanRights @UN…,Sun Jul 01 21:42:46 +0000 2018,@BBC,"{'neg': 0.217, 'neu': 0.783, 'pos': 0.0, 'compound': -0.6908}",0.0,0.217,0.783,-0.6908
+87,RT @DerbyChrisW: The rightwing bias of the BBC's political commentary laid bare. Come on @BBC you can and you should do better than this. h…,Sun Jul 01 21:42:34 +0000 2018,@BBC,"{'neg': 0.051, 'neu': 0.842, 'pos': 0.106, 'compound': 0.3612}",0.106,0.051,0.842,0.3612
+88,@CarolLove1975 @BBC @rickygervais Yeah kebab and trolling for men lol,Sun Jul 01 21:41:47 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 0.615, 'pos': 0.385, 'compound': 0.6124}",0.385,0.0,0.615,0.6124
+89,"RT @BandPictureThis: We had an amazing time in Glasgow yesterday at @TRNSMTfest thanks for giving us a great time! @bbc @bbcmusic 
+https://…",Sun Jul 01 21:41:28 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 0.558, 'pos': 0.442, 'compound': 0.9259}",0.442,0.0,0.558,0.9259
+90,RT @DerbyChrisW: The rightwing bias of the BBC's political commentary laid bare. Come on @BBC you can and you should do better than this. h…,Sun Jul 01 21:41:20 +0000 2018,@BBC,"{'neg': 0.051, 'neu': 0.842, 'pos': 0.106, 'compound': 0.3612}",0.106,0.051,0.842,0.3612
+91,"RT @BBC: Over the last 50 years, the flesh-footed shearwater population has dropped by 30%.
+
+Plastic is a major cause of their decline.
+#Pl…",Sun Jul 01 21:41:18 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+92,@chellespeirs @BBC @rickygervais Not many celebs would take the piss out of themselves the way George did!,Sun Jul 01 21:41:08 +0000 2018,@BBC,"{'neg': 0.158, 'neu': 0.842, 'pos': 0.0, 'compound': -0.4574}",0.0,0.158,0.842,-0.4574
+93,RT @DerbyChrisW: The rightwing bias of the BBC's political commentary laid bare. Come on @BBC you can and you should do better than this. h…,Sun Jul 01 21:40:26 +0000 2018,@BBC,"{'neg': 0.051, 'neu': 0.842, 'pos': 0.106, 'compound': 0.3612}",0.106,0.051,0.842,0.3612
+94,RT @Tsidqenu313: 528Hz Known As The Love Frequency | Said To Repair DNA &amp; Harmonize Energ... https://t.co/ej7PLqABPj  @ap @DefenseIntel @bb…,Sun Jul 01 21:40:15 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 0.711, 'pos': 0.289, 'compound': 0.7845}",0.289,0.0,0.711,0.7845
+95,Labour should put in their manifesto that they would continue to ensure @BBC gets funded by the tax payers. Then 1s… https://t.co/dEYvFNV6EA,Sun Jul 01 21:40:00 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 0.89, 'pos': 0.11, 'compound': 0.3818}",0.11,0.0,0.89,0.3818
+96,"RT @BBC: Get unprecedented access to the hidden world of elite gymnasts in Russia. 🤸‍♀️
+
+Storyville: Olympic Dreams of Russian Gold - Over…",Sun Jul 01 21:39:33 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 0.886, 'pos': 0.114, 'compound': 0.4019}",0.114,0.0,0.886,0.4019
+97,RT @Augustobolas: Okay guys.. This is Mavis (from Namibia) network interview to become a news reporter. Help me make this go viral! Tag sha…,Sun Jul 01 21:39:23 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 0.811, 'pos': 0.189, 'compound': 0.5983}",0.189,0.0,0.811,0.5983
+98,RT @DerbyChrisW: The rightwing bias of the BBC's political commentary laid bare. Come on @BBC you can and you should do better than this. h…,Sun Jul 01 21:39:07 +0000 2018,@BBC,"{'neg': 0.051, 'neu': 0.842, 'pos': 0.106, 'compound': 0.3612}",0.106,0.051,0.842,0.3612
+99,RT @BBC: 🌳 How trees secretly talk to each other.  https://t.co/IuLAvWPwKj,Sun Jul 01 21:38:54 +0000 2018,@BBC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+0,"RT @nytimes: A grateful nation honors a great woman: The remains of Simone Veil, Holocaust survivor and women's rights champion, were burie…",Sun Jul 01 22:03:46 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 0.472, 'pos': 0.528, 'compound': 0.9501}",0.528,0.0,0.472,0.9501
+1,"RT @AMBACheo: #genocide in #Ambazonia , #southerncameroons. The Rwandan type genocide is actively going on in #Ambazonia As #France Just li…",Sun Jul 01 22:03:44 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 0.892, 'pos': 0.108, 'compound': 0.3182}",0.108,0.0,0.892,0.3182
+2,@nytimes Why should we have to pay when it was they who came illegally,Sun Jul 01 22:03:43 +0000 2018,@NYtimes,"{'neg': 0.097, 'neu': 0.903, 'pos': 0.0, 'compound': -0.1027}",0.0,0.097,0.903,-0.1027
+3,@CBSNews @NBCNews @latimes @nytimes @AOL @FoxNews #+#+  @FOXTV @AP @MSN @washingtonpost @USATODAY @WSJ @nypost… https://t.co/lwuoJ2JWVG,Sun Jul 01 22:03:41 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+4,RT @nytimes: Immigrant families are being charged thousands of dollars in airfare to get children out of federally contracted migrant shelt…,Sun Jul 01 22:03:41 +0000 2018,@NYtimes,"{'neg': 0.083, 'neu': 0.917, 'pos': 0.0, 'compound': -0.2023}",0.0,0.083,0.917,-0.2023
+5,RT @nytimes: Immigrant families are being charged thousands of dollars in airfare to get children out of federally contracted migrant shelt…,Sun Jul 01 22:03:37 +0000 2018,@NYtimes,"{'neg': 0.083, 'neu': 0.917, 'pos': 0.0, 'compound': -0.2023}",0.0,0.083,0.917,-0.2023
+6,@nytimes Now is when the airlines need to step up,Sun Jul 01 22:03:37 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+7,"RT @nytimes: A grateful nation honors a great woman: The remains of Simone Veil, Holocaust survivor and women's rights champion, were burie…",Sun Jul 01 22:03:37 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 0.472, 'pos': 0.528, 'compound': 0.9501}",0.528,0.0,0.472,0.9501
+8,Behind Lincoln Center’s White Travertine Facade: Infighting and Indecision   via @NYTimes https://t.co/cAqKCPbe0S,Sun Jul 01 22:03:35 +0000 2018,@NYtimes,"{'neg': 0.141, 'neu': 0.859, 'pos': 0.0, 'compound': -0.2023}",0.0,0.141,0.859,-0.2023
+9,@nytimes Where are the protests about the 21-23 million American children separated from their parents and families… https://t.co/UwbG7elRNX,Sun Jul 01 22:03:34 +0000 2018,@NYtimes,"{'neg': 0.101, 'neu': 0.899, 'pos': 0.0, 'compound': -0.2263}",0.0,0.101,0.899,-0.2263
+10,"RT @AnitaCreamer: @nytimes We would do well to break up ICE, with Homeland Security separated out, as 19 ICE officials have suggested. But…",Sun Jul 01 22:03:34 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 0.824, 'pos': 0.176, 'compound': 0.5423}",0.176,0.0,0.824,0.5423
+11,RT @nytimes: The United States Senate’s 3 black members introduced a bill that would make lynching a federal hate crime. https://t.co/7RWbn…,Sun Jul 01 22:03:33 +0000 2018,@NYtimes,"{'neg': 0.288, 'neu': 0.6, 'pos': 0.112, 'compound': -0.6597}",0.112,0.288,0.6,-0.6597
+12,@DanCox05341052 @nytimes @USAGSessions @POTUS @VP @WhiteHouse @GOP @SenateMajLdr @SpeakerRyan @AandGShow @rushlimbaugh And Dan is a Bot,Sun Jul 01 22:03:31 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+13,@Donatelli7Bp @TylerAKing @nytimes Not how meant but yep,Sun Jul 01 22:03:23 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.4215}",0.286,0.0,0.714,0.4215
+14,"@nytimes The fool says...
+
+Psalm 14:1 KJV
+[1] The fool hath said in his heart, There is no God. They are corrupt, t… https://t.co/KAqBabdTe8",Sun Jul 01 22:03:21 +0000 2018,@NYtimes,"{'neg': 0.266, 'neu': 0.664, 'pos': 0.07, 'compound': -0.7096}",0.07,0.266,0.664,-0.7096
+15,"@FakedRealityRUS @nytimes Hey Dope - they are illegals
+
+That is a crime
+
+They broke the law and avoided detection b… https://t.co/wgOqNzK8XM",Sun Jul 01 22:03:20 +0000 2018,@NYtimes,"{'neg': 0.352, 'neu': 0.648, 'pos': 0.0, 'compound': -0.8271}",0.0,0.352,0.648,-0.8271
+16,RT @nytimes: Immigrant families are being charged thousands of dollars in airfare to get children out of federally contracted migrant shelt…,Sun Jul 01 22:03:19 +0000 2018,@NYtimes,"{'neg': 0.083, 'neu': 0.917, 'pos': 0.0, 'compound': -0.2023}",0.0,0.083,0.917,-0.2023
+17,@nytimes Just split the department up like it was originally. INS and Customs ... too much power in one dept,Sun Jul 01 22:03:17 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 0.884, 'pos': 0.116, 'compound': 0.3612}",0.116,0.0,0.884,0.3612
+18,RT @PressHereJG: @nytimes @margalitfox I loved her obits - always learned something new and many times regretting not knowing more about th…,Sun Jul 01 22:03:13 +0000 2018,@NYtimes,"{'neg': 0.11, 'neu': 0.732, 'pos': 0.159, 'compound': 0.296}",0.159,0.11,0.732,0.296
+19,@LukeDashjr @cindi_leive @nytimes Rights don't depend on what some morons interpretation of a 2 thousand year old fairy tale is either.,Sun Jul 01 22:03:11 +0000 2018,@NYtimes,"{'neg': 0.113, 'neu': 0.887, 'pos': 0.0, 'compound': -0.3182}",0.0,0.113,0.887,-0.3182
+20,"RT @RoArquette: Retweeted The New York Times (@nytimes):
+
+Immigrant families are being charged thousands of dollars in airfare to get child…",Sun Jul 01 22:03:09 +0000 2018,@NYtimes,"{'neg': 0.083, 'neu': 0.917, 'pos': 0.0, 'compound': -0.2023}",0.0,0.083,0.917,-0.2023
+21,RT @nytimes: Immigrant families are being charged thousands of dollars in airfare to get children out of federally contracted migrant shelt…,Sun Jul 01 22:03:04 +0000 2018,@NYtimes,"{'neg': 0.083, 'neu': 0.917, 'pos': 0.0, 'compound': -0.2023}",0.0,0.083,0.917,-0.2023
+22,@nytimes Where are the protests about the 21-23 million American children separated from their parents and families… https://t.co/y6ZaCM0CzK,Sun Jul 01 22:03:03 +0000 2018,@NYtimes,"{'neg': 0.101, 'neu': 0.899, 'pos': 0.0, 'compound': -0.2263}",0.0,0.101,0.899,-0.2263
+23,"RT @NPeckumn: @nytimes @margalitfox Saw her at the @Newseum a few months ago - she was fascinating, empathetic and realized why accuracy is…",Sun Jul 01 22:03:01 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 0.754, 'pos': 0.246, 'compound': 0.7351}",0.246,0.0,0.754,0.7351
+24,RT @nytimes: Immigrant families are being charged thousands of dollars in airfare to get children out of federally contracted migrant shelt…,Sun Jul 01 22:02:58 +0000 2018,@NYtimes,"{'neg': 0.083, 'neu': 0.917, 'pos': 0.0, 'compound': -0.2023}",0.0,0.083,0.917,-0.2023
+25,@conceicao_amaro @murphy_gw @ProfDeutsch @nytimes And you don’t have those freedoms because you don’t live here.,Sun Jul 01 22:02:57 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 0.864, 'pos': 0.136, 'compound': 0.296}",0.136,0.0,0.864,0.296
+26,Mexico’s Elections: What to Watch For   via @NYTimes https://t.co/Cv61Q7h3Q2,Sun Jul 01 22:02:57 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+27,RT @nytimes: Immigrant families are being charged thousands of dollars in airfare to get children out of federally contracted migrant shelt…,Sun Jul 01 22:02:56 +0000 2018,@NYtimes,"{'neg': 0.083, 'neu': 0.917, 'pos': 0.0, 'compound': -0.2023}",0.0,0.083,0.917,-0.2023
+28,RT @nytimes: Read the reporting on pregnancy discrimination that inspired officials to act. https://t.co/VJ7OxTUvnl,Sun Jul 01 22:02:56 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 0.802, 'pos': 0.198, 'compound': 0.4939}",0.198,0.0,0.802,0.4939
+29,"RT @LipmanTweets: Dear @nytimes, unless you're sitting on a poll that nobody knows about, you have a glaring error in your a1 hed. I think…",Sun Jul 01 22:02:52 +0000 2018,@NYtimes,"{'neg': 0.107, 'neu': 0.791, 'pos': 0.103, 'compound': -0.0258}",0.103,0.107,0.791,-0.0258
+30,"RT @TiemannAnne: @nytimes @Susan_Hennessey Now we hear that in addition to be in prison, families are having to pay a ransom to get them ou…",Sun Jul 01 22:02:52 +0000 2018,@NYtimes,"{'neg': 0.176, 'neu': 0.824, 'pos': 0.0, 'compound': -0.5719}",0.0,0.176,0.824,-0.5719
+31,"RT @RoArquette: Retweeted The New York Times (@nytimes):
+
+Immigrant families are being charged thousands of dollars in airfare to get child…",Sun Jul 01 22:02:48 +0000 2018,@NYtimes,"{'neg': 0.083, 'neu': 0.917, 'pos': 0.0, 'compound': -0.2023}",0.0,0.083,0.917,-0.2023
+32,RT @nytimes: Immigrant families are being charged thousands of dollars in airfare to get children out of federally contracted migrant shelt…,Sun Jul 01 22:02:48 +0000 2018,@NYtimes,"{'neg': 0.083, 'neu': 0.917, 'pos': 0.0, 'compound': -0.2023}",0.0,0.083,0.917,-0.2023
+33,RT @harleyhs: How Conservatives Weaponized the First Amendment via @NYTimes Robert's Court has water boarded the First Amendment to arrive…,Sun Jul 01 22:02:47 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+34,RT @sh1359312: @nytimes @margalitfox Loved this story!,Sun Jul 01 22:02:46 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 0.589, 'pos': 0.411, 'compound': 0.636}",0.411,0.0,0.589,0.636
+35,"RT @nytimes: A grateful nation honors a great woman: The remains of Simone Veil, Holocaust survivor and women's rights champion, were burie…",Sun Jul 01 22:02:45 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 0.472, 'pos': 0.528, 'compound': 0.9501}",0.528,0.0,0.472,0.9501
+36,@RepLowenthal @nytimes Another city with a homeless problem,Sun Jul 01 22:02:45 +0000 2018,@NYtimes,"{'neg': 0.31, 'neu': 0.69, 'pos': 0.0, 'compound': -0.4019}",0.0,0.31,0.69,-0.4019
+37,RT @doctorbs: @nytimes @margalitfox I love this so much! Godspeed in your new venture. So so so glad you have decided to pursue your writin…,Sun Jul 01 22:02:42 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 0.709, 'pos': 0.291, 'compound': 0.876}",0.291,0.0,0.709,0.876
+38,RT @nytimes: The United States Senate’s 3 black members introduced a bill that would make lynching a federal hate crime. https://t.co/7RWbn…,Sun Jul 01 22:02:40 +0000 2018,@NYtimes,"{'neg': 0.288, 'neu': 0.6, 'pos': 0.112, 'compound': -0.6597}",0.112,0.288,0.6,-0.6597
+39,RT @tafkak: @EricBoehlert @nastiestwoman .@nytimes @washingtonpost well over a million people take to the streets in the USA and countries…,Sun Jul 01 22:02:39 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 0.896, 'pos': 0.104, 'compound': 0.2732}",0.104,0.0,0.896,0.2732
+40,Pegging the irony meter: the @NYTimes reports on @facebook being creepy https://t.co/6rwp7uT0VX while also shoving… https://t.co/Plkih5n2hl,Sun Jul 01 22:02:39 +0000 2018,@NYtimes,"{'neg': 0.074, 'neu': 0.926, 'pos': 0.0, 'compound': -0.0516}",0.0,0.074,0.926,-0.0516
+41,RT @heliosiamallfa1: @PradRachael @joyreaper @POTUS @realDonaldTrump @RepMattGaetz @RepGoodlatte @MariaBartiromo @RepMarkMeadows @Jim_Jorda…,Sun Jul 01 22:02:38 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+42,"RT @nytimes: A grateful nation honors a great woman: The remains of Simone Veil, Holocaust survivor and women's rights champion, were burie…",Sun Jul 01 22:02:37 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 0.472, 'pos': 0.528, 'compound': 0.9501}",0.528,0.0,0.472,0.9501
+43,RT @EdAlvarezB: @Popehat @nytimes From the Seidman article linked in the piece. Free speech was great until the other side uses it https://…,Sun Jul 01 22:02:36 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 0.739, 'pos': 0.261, 'compound': 0.8126}",0.261,0.0,0.739,0.8126
+44,RT @AaronBastani: in today's @nytimes 🌹 https://t.co/a1MfwrpPuk,Sun Jul 01 22:02:36 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+45,@nytimes Well the NRA wants everyone with AR-15's so why worry right?,Sun Jul 01 22:02:35 +0000 2018,@NYtimes,"{'neg': 0.208, 'neu': 0.655, 'pos': 0.137, 'compound': -0.2682}",0.137,0.208,0.655,-0.2682
+46,RT @tedgioia: A John Coltrane TV commercial on CNN today? A full-page ad in the @nytimes? Give credit to Universal Music jazz honcho Danny…,Sun Jul 01 22:02:35 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 0.876, 'pos': 0.124, 'compound': 0.4515}",0.124,0.0,0.876,0.4515
+47,"RT @nytimes: A grateful nation honors a great woman: The remains of Simone Veil, Holocaust survivor and women's rights champion, were burie…",Sun Jul 01 22:02:34 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 0.472, 'pos': 0.528, 'compound': 0.9501}",0.528,0.0,0.472,0.9501
+48,RT @nytimes: Immigrant families are being charged thousands of dollars in airfare to get children out of federally contracted migrant shelt…,Sun Jul 01 22:02:33 +0000 2018,@NYtimes,"{'neg': 0.083, 'neu': 0.917, 'pos': 0.0, 'compound': -0.2023}",0.0,0.083,0.917,-0.2023
+49,RT @nytimes: Immigrant families are being charged thousands of dollars in airfare to get children out of federally contracted migrant shelt…,Sun Jul 01 22:02:31 +0000 2018,@NYtimes,"{'neg': 0.083, 'neu': 0.917, 'pos': 0.0, 'compound': -0.2023}",0.0,0.083,0.917,-0.2023
+50,"@Rschooley @SusanTCase @nytimes @washingtonpost Times buries anti-Trump pieces in name of “equal time”, when they’r… https://t.co/KZwqeK2avS",Sun Jul 01 22:02:30 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+51,RT @nycsouthpaw: @LipmanTweets @nytimes Guess they got your message https://t.co/p3JqGGBS0c,Sun Jul 01 22:02:30 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+52,"RT @NewKnowledgeAI: @nytimes @WSJ @Joe_America1776 These accounts were hijacked, interfered with the us election, and are still active. @fa…",Sun Jul 01 22:02:29 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 0.87, 'pos': 0.13, 'compound': 0.4019}",0.13,0.0,0.87,0.4019
+53,"RT @nytimes: According to conventional wisdom, audiences for documentaries live on the coasts and vote Democratic. But these are unconventi…",Sun Jul 01 22:02:28 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 0.848, 'pos': 0.152, 'compound': 0.5267}",0.152,0.0,0.848,0.5267
+54,@LukeDashjr @cindi_leive @nytimes You mean they're admitting to having an abortion? That's not an admission of guilt.,Sun Jul 01 22:02:27 +0000 2018,@NYtimes,"{'neg': 0.116, 'neu': 0.884, 'pos': 0.0, 'compound': -0.2732}",0.0,0.116,0.884,-0.2732
+55,"RT @sjandrews76: Yes! @VancouverSun @theprovince @nytimes @BlackPressMedia 
+Don’t like being called out for aiding and abetting the B.C. Li…",Sun Jul 01 22:02:24 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.6696}",0.244,0.0,0.756,0.6696
+56,RT @bameado1: Trump👎called other @GOP candidates ugly names &amp; continues to do same in Ovl Ofc @POTUS UNCIVIL @MSNBCPR @CNNPolitics @washing…,Sun Jul 01 22:02:23 +0000 2018,@NYtimes,"{'neg': 0.142, 'neu': 0.858, 'pos': 0.0, 'compound': -0.5106}",0.0,0.142,0.858,-0.5106
+57,"RT @NewKnowledgeAI: @nytimes @WSJ @Joe_America1776 Looking through the ""Kris Crawford's"" account history it's still possible to see when Ma…",Sun Jul 01 22:02:22 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+58,RT @nytimes: The Koch brothers are waging a sophisticated fight against public transit initiatives across the U.S. And they are winning.,Sun Jul 01 22:02:20 +0000 2018,@NYtimes,"{'neg': 0.098, 'neu': 0.639, 'pos': 0.263, 'compound': 0.6597}",0.263,0.098,0.639,0.6597
+59,RT @stopcollusion: @miscellany101 @IED08 @chico751 @RSWestmoreland @ProgressiveBroh @nytimes  https://t.co/77cZqPgrt0,Sun Jul 01 22:02:19 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+60,RT @nytimes: The Koch brothers are waging a sophisticated fight against public transit initiatives across the U.S. And they are winning.,Sun Jul 01 22:02:19 +0000 2018,@NYtimes,"{'neg': 0.098, 'neu': 0.639, 'pos': 0.263, 'compound': 0.6597}",0.263,0.098,0.639,0.6597
+61,"RT @nytimes: Cristiano Ronaldo and Lionel Messi, 2 of the best soccer players in the world, were both eliminated from the World Cup today h…",Sun Jul 01 22:02:19 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 0.846, 'pos': 0.154, 'compound': 0.6369}",0.154,0.0,0.846,0.6369
+62,"@moorehn @nytimes 3/ That means they both miss stories, and dismiss those that don't fit their worldview. The cover… https://t.co/TxJMtYXphb",Sun Jul 01 22:02:18 +0000 2018,@NYtimes,"{'neg': 0.171, 'neu': 0.829, 'pos': 0.0, 'compound': -0.4039}",0.0,0.171,0.829,-0.4039
+63,RT @nytimes: Immigrant families are being charged thousands of dollars in airfare to get children out of federally contracted migrant shelt…,Sun Jul 01 22:02:18 +0000 2018,@NYtimes,"{'neg': 0.083, 'neu': 0.917, 'pos': 0.0, 'compound': -0.2023}",0.0,0.083,0.917,-0.2023
+64,"RT @nytimes: At least 19 ICE investigators are seeking to dissolve the agency, concerned that the Trump administration's crackdown on illeg…",Sun Jul 01 22:02:17 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+65,"RT @RoArquette: Retweeted The New York Times (@nytimes):
+
+Immigrant families are being charged thousands of dollars in airfare to get child…",Sun Jul 01 22:02:15 +0000 2018,@NYtimes,"{'neg': 0.083, 'neu': 0.917, 'pos': 0.0, 'compound': -0.2023}",0.0,0.083,0.917,-0.2023
+66,Trump👎called other @GOP candidates ugly names &amp; continues to do same in Ovl Ofc @POTUS UNCIVIL @MSNBCPR… https://t.co/Z7afvBRzq7,Sun Jul 01 22:02:13 +0000 2018,@NYtimes,"{'neg': 0.163, 'neu': 0.837, 'pos': 0.0, 'compound': -0.5106}",0.0,0.163,0.837,-0.5106
+67,RT @nytimes: Immigrant families are being charged thousands of dollars in airfare to get children out of federally contracted migrant shelt…,Sun Jul 01 22:02:13 +0000 2018,@NYtimes,"{'neg': 0.083, 'neu': 0.917, 'pos': 0.0, 'compound': -0.2023}",0.0,0.083,0.917,-0.2023
+68,RT @NewKnowledgeAI: @nytimes @WSJ @Joe_America1776 Kris looks like an everyday American who loves fast cars and the Dallas Cowboys. But acc…,Sun Jul 01 22:02:09 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 0.754, 'pos': 0.246, 'compound': 0.7351}",0.246,0.0,0.754,0.7351
+69,@miscellany101 @chico751 @RSWestmoreland @ProgressiveBroh @stopcollusion @nytimes #StillYourPresident 😂🤣😅 https://t.co/f2Ows09u0t,Sun Jul 01 22:02:09 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+70,RT @nytimes: Confused about the #WorldCup group permutations? Here’s a handy guide as we head into the final round of games.,Sun Jul 01 22:02:07 +0000 2018,@NYtimes,"{'neg': 0.108, 'neu': 0.892, 'pos': 0.0, 'compound': -0.3182}",0.0,0.108,0.892,-0.3182
+71,"You must be pretty tired by now. You haven't rested, because you have not fulfilled your promise, @realDonaldTrump.… https://t.co/A8RVlv8TSp",Sun Jul 01 22:02:04 +0000 2018,@NYtimes,"{'neg': 0.283, 'neu': 0.591, 'pos': 0.126, 'compound': -0.4577}",0.126,0.283,0.591,-0.4577
+72,@RepLowenthal @nytimes Long Beach residents are being priced out of the housing market.,Sun Jul 01 22:02:04 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+73,RT @nytimes: Immigrant families are being charged thousands of dollars in airfare to get children out of federally contracted migrant shelt…,Sun Jul 01 22:02:01 +0000 2018,@NYtimes,"{'neg': 0.083, 'neu': 0.917, 'pos': 0.0, 'compound': -0.2023}",0.0,0.083,0.917,-0.2023
+74,"RT @RonaldLWillson: @REDDOG73829268 @tedlieu @realDonaldTrump @nytimes I know, right?!
+Spread it wide!
+For those interested: https://t.co/H…",Sun Jul 01 22:02:00 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 0.81, 'pos': 0.19, 'compound': 0.508}",0.19,0.0,0.81,0.508
+75,@nytimes What!!! Taxpayers should fund first-class airfare for these criminals.,Sun Jul 01 22:02:00 +0000 2018,@NYtimes,"{'neg': 0.337, 'neu': 0.663, 'pos': 0.0, 'compound': -0.6784}",0.0,0.337,0.663,-0.6784
+76,RT @nytimes: Immigrant families are being charged thousands of dollars in airfare to get children out of federally contracted migrant shelt…,Sun Jul 01 22:01:57 +0000 2018,@NYtimes,"{'neg': 0.083, 'neu': 0.917, 'pos': 0.0, 'compound': -0.2023}",0.0,0.083,0.917,-0.2023
+77,@Lakrram1 @nytimes No.  Big deal at the time. Rosenstien angry that Trump used him to fire Comey.,Sun Jul 01 22:01:53 +0000 2018,@NYtimes,"{'neg': 0.361, 'neu': 0.639, 'pos': 0.0, 'compound': -0.7845}",0.0,0.361,0.639,-0.7845
+78,"RT @NewKnowledgeAI: @nytimes @WSJ @Joe_America1776 And let's not forget ""Kris Crawford,"" a Facebook account PSY-Group used in their pitch t…",Sun Jul 01 22:01:53 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 0.915, 'pos': 0.085, 'compound': 0.1695}",0.085,0.0,0.915,0.1695
+79,"RT @nytimes: The travel ban covering people from 7 countries, upheld by the Supreme Court, includes provisions for exceptions. But few appl…",Sun Jul 01 22:01:53 +0000 2018,@NYtimes,"{'neg': 0.137, 'neu': 0.725, 'pos': 0.137, 'compound': 0.0}",0.137,0.137,0.725,0.0
+80,@nytimes Where are the protests about the 21-23 million American children separated from their parents and families… https://t.co/pQvNk05UxE,Sun Jul 01 22:01:50 +0000 2018,@NYtimes,"{'neg': 0.101, 'neu': 0.899, 'pos': 0.0, 'compound': -0.2263}",0.0,0.101,0.899,-0.2263
+81,RT @spooney35: @amjoyshow #AMJoy @MeetThePress @ThisWeekABC @CNN @cspanwj @ReliableSources @FareedZakaria @FoxNewsSunday @60Minutes #MTP @F…,Sun Jul 01 22:01:48 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+82,RT @Justice4pr: @nytimes Trafficking the american way. Parents have to buy theres kida back from kidnappers,Sun Jul 01 22:01:44 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+83,"@nytimes Conservative FoxNews viewers are pathetic, paranoid pansies afraid of whatever Trump and the GOP tells the… https://t.co/iic6QscSx3",Sun Jul 01 22:01:42 +0000 2018,@NYtimes,"{'neg': 0.263, 'neu': 0.737, 'pos': 0.0, 'compound': -0.6908}",0.0,0.263,0.737,-0.6908
+84,RT @nytimes: Immigrant families are being charged thousands of dollars in airfare to get children out of federally contracted migrant shelt…,Sun Jul 01 22:01:41 +0000 2018,@NYtimes,"{'neg': 0.083, 'neu': 0.917, 'pos': 0.0, 'compound': -0.2023}",0.0,0.083,0.917,-0.2023
+85,@OwenBrennan @CNN @MSNBC @nbc @ABC @CBS @NPR @washingtonpost @nytimes Or: two obvious takes doesn’t make it worth i… https://t.co/nODx5kbtj3,Sun Jul 01 22:01:40 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 0.905, 'pos': 0.095, 'compound': 0.2263}",0.095,0.0,0.905,0.2263
+86,@emmevilla @IAmJamesTheBond @francescatotolo @andreapalladino @Corriere @nytimes @lucabattanta @LucioMalan… https://t.co/nVHPcp2aCM,Sun Jul 01 22:01:40 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+87,"@stopcollusion @nytimes I oppose causing irreparable trauma to those who seek our help. Our national soul cries, “G… https://t.co/lkOjTXJzdg",Sun Jul 01 22:01:40 +0000 2018,@NYtimes,"{'neg': 0.237, 'neu': 0.647, 'pos': 0.116, 'compound': -0.4215}",0.116,0.237,0.647,-0.4215
+88,RT @nytimes: Immigrant families are being charged thousands of dollars in airfare to get children out of federally contracted migrant shelt…,Sun Jul 01 22:01:40 +0000 2018,@NYtimes,"{'neg': 0.083, 'neu': 0.917, 'pos': 0.0, 'compound': -0.2023}",0.0,0.083,0.917,-0.2023
+89,"RT @RoArquette: Retweeted The New York Times (@nytimes):
+
+Immigrant families are being charged thousands of dollars in airfare to get child…",Sun Jul 01 22:01:39 +0000 2018,@NYtimes,"{'neg': 0.083, 'neu': 0.917, 'pos': 0.0, 'compound': -0.2023}",0.0,0.083,0.917,-0.2023
+90,RT @GenderWatch2018: Is This the Year Women Break the Rules and Win? via @kzernike @nytimes feat. #genderwatch2018 experts @WendyGSmooth &amp;…,Sun Jul 01 22:01:38 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 0.833, 'pos': 0.167, 'compound': 0.5859}",0.167,0.0,0.833,0.5859
+91,RT @nytimes: Immigrant families are being charged thousands of dollars in airfare to get children out of federally contracted migrant shelt…,Sun Jul 01 22:01:35 +0000 2018,@NYtimes,"{'neg': 0.083, 'neu': 0.917, 'pos': 0.0, 'compound': -0.2023}",0.0,0.083,0.917,-0.2023
+92,RT @nytimes: Immigrant families are being charged thousands of dollars in airfare to get children out of federally contracted migrant shelt…,Sun Jul 01 22:01:35 +0000 2018,@NYtimes,"{'neg': 0.083, 'neu': 0.917, 'pos': 0.0, 'compound': -0.2023}",0.0,0.083,0.917,-0.2023
+93,RT @chrisbr64178310: @nytimes ice took the kids and moved them. ice should pay their way back!!!!!!,Sun Jul 01 22:01:35 +0000 2018,@NYtimes,"{'neg': 0.146, 'neu': 0.854, 'pos': 0.0, 'compound': -0.3753}",0.0,0.146,0.854,-0.3753
+94,@nytimes Does the plain truth seem that strange to you?,Sun Jul 01 22:01:34 +0000 2018,@NYtimes,"{'neg': 0.149, 'neu': 0.661, 'pos': 0.19, 'compound': 0.128}",0.19,0.149,0.661,0.128
+95,RT @nytimes: Immigrant families are being charged thousands of dollars in airfare to get children out of federally contracted migrant shelt…,Sun Jul 01 22:01:31 +0000 2018,@NYtimes,"{'neg': 0.083, 'neu': 0.917, 'pos': 0.0, 'compound': -0.2023}",0.0,0.083,0.917,-0.2023
+96,@nytimes NYT loves MS-13,Sun Jul 01 22:01:31 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 0.448, 'pos': 0.552, 'compound': 0.5719}",0.552,0.0,0.448,0.5719
+97,"@poppasmirf22 @murphy_gw @ProfDeutsch @nytimes That’s not true either. Washington, Massachusetts, and California ha… https://t.co/3JoM0KF3CH",Sun Jul 01 22:01:28 +0000 2018,@NYtimes,"{'neg': 0.152, 'neu': 0.848, 'pos': 0.0, 'compound': -0.3252}",0.0,0.152,0.848,-0.3252
+98,RT @waltb31: Such bull 💩 @SenatorCollins @lisamurkowski @JeffFlake are spineless conartists; the “good cop” to white nationalist misogynist…,Sun Jul 01 22:01:27 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+99,RT @paolamendoza: A long time ago I made the choice to use my art to uplift the humanity of my people. I’ve had the honor to tell the stori…,Sun Jul 01 22:01:24 +0000 2018,@NYtimes,"{'neg': 0.0, 'neu': 0.89, 'pos': 0.11, 'compound': 0.4939}",0.11,0.0,0.89,0.4939
+0,@cnn @JimAcasta @maddow @msnbc @cbs @nbc #IllegalImmigrants #IllegalAliens #Impeach45 https://t.co/zcncQBRnWf,Sun Jul 01 22:03:27 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+1,@youre_the_rhoda @pookietooth @sjsrana @CraigRSawyer @NoLongerIgnored @alllibertynews @Save_Solai @SaveRChildrenCa… https://t.co/EU1DAL0OzT,Sun Jul 01 22:01:58 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+2,"Petition to get Maxine Waters expelled from Congress
+
+@TheEllenShow 
+@aplusk 
+@jimmykimmel 
+@KimKardashian… https://t.co/34LUe8M1on",Sun Jul 01 22:01:42 +0000 2018,@CBS,"{'neg': 0.143, 'neu': 0.857, 'pos': 0.0, 'compound': -0.25}",0.0,0.143,0.857,-0.25
+3,"RT @MSonmul: 👇👇👇
+@cnni @bbc @AP @Reuters @dwnews @FoxNews @ABC @NBCNews @CBS @hrw @ariannahuff @OSCE_RFoM @davidakaye @AFP @dwnews @Sputnik…",Sun Jul 01 22:01:41 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+4,@OwenBrennan @CNN @MSNBC @nbc @ABC @CBS @NPR @washingtonpost @nytimes Or: two obvious takes doesn’t make it worth i… https://t.co/nODx5kbtj3,Sun Jul 01 22:01:40 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 0.905, 'pos': 0.095, 'compound': 0.2263}",0.095,0.0,0.905,0.2263
+5,RT @GetSpectrum: #BigBrother is back. Follow the drama tonight at 8/7c on @CBS! #BB20 @CBSBigBrother https://t.co/1wZhDNeEBi,Sun Jul 01 22:01:28 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+6,#SaveTimeless #renewtimeless @Sony @NBCTimeless @nbc @TheTimelessRoom we need a season 3 pleaseee @netflix… https://t.co/Sr4cCExNVC,Sun Jul 01 22:00:47 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+7,#BigBrother is back. Follow the drama tonight at 8/7c on @CBS! #BB20 @CBSBigBrother https://t.co/1wZhDNeEBi,Sun Jul 01 22:00:00 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+8,"RT @MSonmul: 👇👇👇
+@cnni @bbc @AP @Reuters @dwnews @FoxNews @ABC @NBCNews @CBS @hrw @ariannahuff @OSCE_RFoM @davidakaye @AFP @dwnews @Sputnik…",Sun Jul 01 21:59:33 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+9,@OwenBrennan @CNN @MSNBC @nbc @ABC @CBS @NPR @washingtonpost @nytimes Insert eyeroll gif,Sun Jul 01 21:59:15 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+10,So @ABC @abcnews @CBS @CBSNews @CBSNLive @MSNBC @maddow @JoeNBC @morningmika @NewsHour @nytimes @washingtonpost… https://t.co/bznhTbcr42,Sun Jul 01 21:59:00 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+11,"We have been out on the deck with the NFL sideline fan, watching #TigerWoods at #QuickenLoansNational on @CBS. Stay… https://t.co/AxGovzfmc0",Sun Jul 01 21:58:12 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 0.892, 'pos': 0.108, 'compound': 0.3182}",0.108,0.0,0.892,0.3182
+12,RT @krisig555: @JackPosobiec @CoreyStewartVA @cnn @FoxNews @abc @oann @cbs @nbc @msnbc @FoxNewsInsider @gma - now it will be on the news -…,Sun Jul 01 21:57:42 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+13,"@netflix @Netflixhelps @CBS @CBSTweet @MadamSecretary 
+Hi, what happened? Why is Season 4 isn’t available? I was lo… https://t.co/43wlx7Hhgi",Sun Jul 01 21:57:28 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+14,@FamUnite4Child @pookietooth @sjsrana @CraigRSawyer @NoLongerIgnored @alllibertynews @Save_Solai @SaveRChildrenCa… https://t.co/9R7Th5E8u2,Sun Jul 01 21:57:27 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+15,@youre_the_rhoda @pookietooth @sjsrana @CraigRSawyer @NoLongerIgnored @alllibertynews @Save_Solai @SaveRChildrenCa… https://t.co/fk1pj60SNV,Sun Jul 01 21:56:56 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+16,RT @FamUnite4Child: @youre_the_rhoda @pookietooth @sjsrana @CraigRSawyer @NoLongerIgnored @alllibertynews @Save_Solai @SaveRChildrenCa @Ame…,Sun Jul 01 21:55:14 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+17,RT @Tell_Darzul: @NetflixLifee @warnerbrostv @NetflixLifee @CBS @hulu @Showtime @AMC_TV @SYFY  @FreeformTV @WarnerBrosEnt @SonyTV @AmazonSt…,Sun Jul 01 21:54:56 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+18,RT @youre_the_rhoda: @FamUnite4Child @pookietooth @sjsrana @CraigRSawyer @NoLongerIgnored @alllibertynews @Save_Solai @SaveRChildrenCa @Ame…,Sun Jul 01 21:54:44 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+19,"Where is @NickFaldo006 today?
+@CBS  #QuickenLoansNational",Sun Jul 01 21:53:53 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+20,@youre_the_rhoda @pookietooth @sjsrana @CraigRSawyer @NoLongerIgnored @alllibertynews @Save_Solai @SaveRChildrenCa… https://t.co/pOplghkXRp,Sun Jul 01 21:53:41 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+21,"RT @redeploybrave: Dream cast, dream leader! Give them more!
+#TheBrave #RedeployTheBrave @netflix @nbc @hulu @AmazonStudios @USA_Network @t…",Sun Jul 01 21:52:55 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 0.766, 'pos': 0.234, 'compound': 0.555}",0.234,0.0,0.766,0.555
+22,@youre_the_rhoda @pookietooth @sjsrana @CraigRSawyer @NoLongerIgnored @alllibertynews @Save_Solai @SaveRChildrenCa… https://t.co/RWmIyrh0lz,Sun Jul 01 21:52:49 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+23,"RT @MSonmul: 👇👇👇
+@cnni @bbc @AP @Reuters @dwnews @FoxNews @ABC @NBCNews @CBS @hrw @ariannahuff @OSCE_RFoM @davidakaye @AFP @dwnews @Sputnik…",Sun Jul 01 21:52:39 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+24,RT @wayneabirch: @DouglasHespelt @chpspics @tomcrown1 @MArmenoff @Scorpionfanhun @CaptainBadger79 @tvfan00 @pasbonca @Adriennekauffm2 @CBS…,Sun Jul 01 21:50:36 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+25,"RT @MSonmul: 👇👇👇
+@cnni @bbc @AP @Reuters @dwnews @FoxNews @ABC @NBCNews @CBS @hrw @ariannahuff @OSCE_RFoM @davidakaye @AFP @dwnews @Sputnik…",Sun Jul 01 21:50:33 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+26,RT @DaniloMeini: @warnerbrostv @NetflixLifee @CBS @hulu @Showtime @AMC_TV @FreeformTV @WarnerBrosEnt @SYFY @SonyTV @AmazonStudios @STARZ @A…,Sun Jul 01 21:50:24 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+27,"RT @Bckrda: @tedlieu Really? Yet media gives djt a pass but trashes Obama Iran deal? A deal that had 6 other countries, verification, and n…",Sun Jul 01 21:50:21 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+28,RT @chpspics: @DouglasHespelt @tomcrown1 @MArmenoff @Scorpionfanhun @CaptainBadger79 @tvfan00 @wayneabirch @pasbonca @Adriennekauffm2 @CBS…,Sun Jul 01 21:50:20 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+29,"Good #SaveScorpion nigth #TeamScorpion 😴😴
+
+Good nigth @CBSTVStudios @cbs 😴😴
+
+I hope that tomorrow my DREAM will com… https://t.co/geMZL1o9XR",Sun Jul 01 21:50:08 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 0.55, 'pos': 0.45, 'compound': 0.8868}",0.45,0.0,0.55,0.8868
+30,"👇👇👇
+@cnni @bbc @AP @Reuters @dwnews @FoxNews @ABC @NBCNews @CBS @hrw @ariannahuff @OSCE_RFoM @davidakaye @AFP… https://t.co/xijEvKB8pd",Sun Jul 01 21:49:39 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+31,"RT @OneBloodYeAndI: Stop The RoundUp! Leave Muddy Creek #WildHorses alone!
+@RepRobBishop @jasoninthehouse @CurtisUT @RepMiaLove @RepChrisSt…",Sun Jul 01 21:49:15 +0000 2018,@CBS,"{'neg': 0.333, 'neu': 0.667, 'pos': 0.0, 'compound': -0.6103}",0.0,0.333,0.667,-0.6103
+32,@DouglasHespelt @chpspics @tomcrown1 @MArmenoff @Scorpionfanhun @CaptainBadger79 @tvfan00 @pasbonca… https://t.co/mccw6R9INu,Sun Jul 01 21:48:54 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+33,RT @DouglasHespelt: @chpspics @tomcrown1 @MArmenoff @Scorpionfanhun @CaptainBadger79 @tvfan00 @wayneabirch @pasbonca @Adriennekauffm2 @CBS…,Sun Jul 01 21:46:49 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+34,@DouglasHespelt @tomcrown1 @MArmenoff @Scorpionfanhun @CaptainBadger79 @tvfan00 @wayneabirch @pasbonca… https://t.co/cSvwNQEfzu,Sun Jul 01 21:46:45 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+35,@FamUnite4Child @pookietooth @sjsrana @CraigRSawyer @NoLongerIgnored @alllibertynews @Save_Solai @SaveRChildrenCa… https://t.co/7bpKBC8E4G,Sun Jul 01 21:45:36 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+36,@FamUnite4Child @pookietooth @sjsrana @CraigRSawyer @NoLongerIgnored @alllibertynews @Save_Solai @SaveRChildrenCa… https://t.co/b1wTMwBI2y,Sun Jul 01 21:44:11 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+37,RT @DouglasHespelt: @tomcrown1 @chpspics @MArmenoff @Scorpionfanhun @CaptainBadger79 @tvfan00 @wayneabirch @pasbonca @Adriennekauffm2 @CBS…,Sun Jul 01 21:43:29 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+38,RT @tomcrown1: @chpspics @DouglasHespelt @MArmenoff @Scorpionfanhun @CaptainBadger79 @tvfan00 @wayneabirch @pasbonca @Adriennekauffm2 @CBS…,Sun Jul 01 21:43:26 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+39,RT @chpspics: @DouglasHespelt @MArmenoff @Scorpionfanhun @CaptainBadger79 @tomcrown1 @tvfan00 @wayneabirch @pasbonca @Adriennekauffm2 @CBS…,Sun Jul 01 21:43:08 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+40,@FamUnite4Child @sjsrana @CraigRSawyer @pookietooth @NoLongerIgnored @alllibertynews @Save_Solai @SaveRChildrenCa… https://t.co/1PWzuyL54v,Sun Jul 01 21:42:59 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+41,RT @chpspics: @DouglasHespelt @MArmenoff @Scorpionfanhun @CaptainBadger79 @tomcrown1 @tvfan00 @wayneabirch @pasbonca @Adriennekauffm2 @CBS…,Sun Jul 01 21:42:48 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+42,@DouglasHespelt @chpspics @tomcrown1 @MArmenoff @Scorpionfanhun @CaptainBadger79 @tvfan00 @wayneabirch… https://t.co/pz0wYEQgZW,Sun Jul 01 21:42:07 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+43,RT @DouglasHespelt: @chpspics @tomcrown1 @MArmenoff @Scorpionfanhun @CaptainBadger79 @tvfan00 @wayneabirch @pasbonca @Adriennekauffm2 @CBS…,Sun Jul 01 21:41:24 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+44,"RT @OneBloodYeAndI: Who can help #SaveStompy? #StopTheRoundUp of Muddy Creek #WildHorses in Utah! 
+@CNN @teamCNN @MSNBC @NBC @CBS @CBSNews…",Sun Jul 01 21:41:05 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 0.857, 'pos': 0.143, 'compound': 0.4574}",0.143,0.0,0.857,0.4574
+45,"RT @OneBloodYeAndI: Stop The RoundUp! Leave Muddy Creek #WildHorses alone!
+@RepRobBishop @jasoninthehouse @CurtisUT @RepMiaLove @RepChrisSt…",Sun Jul 01 21:41:01 +0000 2018,@CBS,"{'neg': 0.333, 'neu': 0.667, 'pos': 0.0, 'compound': -0.6103}",0.0,0.333,0.667,-0.6103
+46,@FamUnite4Child @pookietooth @sjsrana @CraigRSawyer @NoLongerIgnored @alllibertynews @Save_Solai @SaveRChildrenCa… https://t.co/KqrnFUkRsp,Sun Jul 01 21:40:47 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+47,@youre_the_rhoda @pookietooth @sjsrana @CraigRSawyer @NoLongerIgnored @alllibertynews @Save_Solai @SaveRChildrenCa… https://t.co/z79L8I4RK2,Sun Jul 01 21:40:45 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+48,"RT @flyingeagle2223: I need #Deception back in my life i miss it 
+... please think about picking up this fantastic show @DeceptionABC  #iLo…",Sun Jul 01 21:40:10 +0000 2018,@CBS,"{'neg': 0.061, 'neu': 0.688, 'pos': 0.25, 'compound': 0.714}",0.25,0.061,0.688,0.714
+49,"RT @LexaHedaLexa: #Lexa is what we need
+#Lexa is what we fight 4
+#LexaStillDeservesBetter &amp; harmful trope of toxic Tloo still has 2 be reve…",Sun Jul 01 21:39:41 +0000 2018,@CBS,"{'neg': 0.106, 'neu': 0.894, 'pos': 0.0, 'compound': -0.3818}",0.0,0.106,0.894,-0.3818
+50,@decosasbuenas @SoffiFlury @ValuRelanez @justmileybxtch @highwaytobirra @refloreada @CBS La unica respuesta que te… https://t.co/nqvsATR8nK,Sun Jul 01 21:39:17 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+51,@chpspics @tomcrown1 @MArmenoff @Scorpionfanhun @CaptainBadger79 @tvfan00 @wayneabirch @pasbonca @Adriennekauffm2… https://t.co/JT1a9OQueA,Sun Jul 01 21:39:12 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+52,@UnderTheDomeCBS I’m fucking livid. How dare @CBS do this shit. How much? How much money to make season 4 happen? I’ll sell my fucking soul.,Sun Jul 01 21:38:40 +0000 2018,@CBS,"{'neg': 0.276, 'neu': 0.724, 'pos': 0.0, 'compound': -0.8556}",0.0,0.276,0.724,-0.8556
+53,@UnderTheDomeCBS @CBS cancelling this show the way you did should be illegal. A PLAGUE ON ALL YOUR HOUSES!,Sun Jul 01 21:37:53 +0000 2018,@CBS,"{'neg': 0.275, 'neu': 0.725, 'pos': 0.0, 'compound': -0.69}",0.0,0.275,0.725,-0.69
+54,"I need #Deception back in my life i miss it 
+... please think about picking up this fantastic show @DeceptionABC… https://t.co/UylQpZIkKk",Sun Jul 01 21:37:25 +0000 2018,@CBS,"{'neg': 0.066, 'neu': 0.663, 'pos': 0.271, 'compound': 0.714}",0.271,0.066,0.663,0.714
+55,RT @chpspics: @DouglasHespelt @tomcrown1 @MArmenoff @Scorpionfanhun @CaptainBadger79 @tvfan00 @wayneabirch @pasbonca @Adriennekauffm2 @CBS…,Sun Jul 01 21:37:16 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+56,@Thomas1774Paine @RonMyers98 #Rabid #Mad #Crazed #Unhinged 😳#MSM #MorningJoe @Morning_Joe @morningmika @JoeNBC… https://t.co/KiiIQUXPdj,Sun Jul 01 21:36:28 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+57,@BBC ⁦⁦@liebanosaenz⁩ @dwnews @nytimes @nypost @NYDailyNews @HuffPost @AristeguiOnline @jorgeramosnews @maddow ⁦… https://t.co/XXuI9MAkNA,Sun Jul 01 21:36:18 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+58,@youre_the_rhoda @pookietooth @sjsrana @CraigRSawyer @NoLongerIgnored @alllibertynews @Save_Solai @SaveRChildrenCa… https://t.co/8jCJhFbuGF,Sun Jul 01 21:34:48 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+59,@FamUnite4Child @pookietooth @sjsrana @CraigRSawyer @NoLongerIgnored @alllibertynews @Save_Solai @SaveRChildrenCa… https://t.co/Ctp2A2OD0x,Sun Jul 01 21:34:39 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+60,RT @nora_sirmons: @LibertyHacking @CBS We have seen videos of their so called peace...fake news.,Sun Jul 01 21:34:06 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+61,"RT @Bckrda: @tedlieu Really? Yet media gives djt a pass but trashes Obama Iran deal? A deal that had 6 other countries, verification, and n…",Sun Jul 01 21:33:01 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+62,"Correction, @CBS
+The MOTHER of the far left account holder of Dog_Rates found both the dog and the owner. Too bad M… https://t.co/O8PvtUdDyf",Sun Jul 01 21:32:33 +0000 2018,@CBS,"{'neg': 0.137, 'neu': 0.863, 'pos': 0.0, 'compound': -0.5423}",0.0,0.137,0.863,-0.5423
+63,@DouglasHespelt @tomcrown1 @MArmenoff @Scorpionfanhun @CaptainBadger79 @tvfan00 @wayneabirch @pasbonca… https://t.co/fVgKM4Hic2,Sun Jul 01 21:30:58 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+64,"RT @nvrggivup: ""Impeach 45"" @MSNBC @donlemon @jaketapper @cnnbrk @maddow @abcnews  @CBS  @nbc @NBCNews  @ShepNewsTeam @brikeilarcnn @anders…",Sun Jul 01 21:30:35 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+65,@nvrggivup @MSNBC @donlemon @jaketapper @cnnbrk @maddow @abcnews @CBS @nbc @NBCNews @ShepNewsTeam @brikeilarcnn… https://t.co/fLFLNC1Ncu,Sun Jul 01 21:30:25 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+66,@youre_the_rhoda @pookietooth @sjsrana @CraigRSawyer @NoLongerIgnored @alllibertynews @Save_Solai @SaveRChildrenCa… https://t.co/V2ETuiZzLf,Sun Jul 01 21:29:47 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+67,@CBS @CBSSports https://t.co/WNMBhfswzM,Sun Jul 01 21:29:28 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+68,@youre_the_rhoda @pookietooth @sjsrana @CraigRSawyer @NoLongerIgnored @alllibertynews @Save_Solai @SaveRChildrenCa… https://t.co/s34Hbi821Y,Sun Jul 01 21:29:12 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+69,@pookietooth @FamUnite4Child @sjsrana @CraigRSawyer @NoLongerIgnored @alllibertynews @Save_Solai @SaveRChildrenCa… https://t.co/jzDXgqU4Ix,Sun Jul 01 21:28:12 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+70,@maddow @CNN @ABC @CBS Israel Beefs Up Tank And Artillery Deployment In Syria Warning https://t.co/iBl8eEQaOX,Sun Jul 01 21:27:48 +0000 2018,@CBS,"{'neg': 0.146, 'neu': 0.854, 'pos': 0.0, 'compound': -0.34}",0.0,0.146,0.854,-0.34
+71,@instinctcbs @CBS @bojnovak You betcha!!!!!,Sun Jul 01 21:27:35 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+72,@se_callahan @CBS @bojnovak So are we! See you tonight for the #Instinct season finale!,Sun Jul 01 21:27:06 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+73,@FamUnite4Child @pookietooth @sjsrana @CraigRSawyer @NoLongerIgnored @alllibertynews @Save_Solai @SaveRChildrenCa… https://t.co/dfPeXH3Xve,Sun Jul 01 21:26:46 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+74,"RT @Albedo039Earth: @Diva_grace31 @BonelliOK A @BonelliOK le estaría molestando esto?: https://t.co/BEjoSnAfj6
+#ArgentinaFrancia #Argentina…",Sun Jul 01 21:26:41 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+75,@AlohaEvery1 @sjsrana @CraigRSawyer @pookietooth @NoLongerIgnored @alllibertynews @Save_Solai @SaveRChildrenCa… https://t.co/bWcPT8n3hD,Sun Jul 01 21:25:49 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+76,RT @JoshX1993: The #CBSWeekendNews will be preempted tonight by the @CBS network on most of its East coast stations due to @CBSSports cover…,Sun Jul 01 21:25:41 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+77,@AlohaEvery1 @sjsrana @CraigRSawyer @pookietooth @NoLongerIgnored @alllibertynews @Save_Solai @SaveRChildrenCa… https://t.co/FoBnNPqqB4,Sun Jul 01 21:24:33 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+78,@FamUnite4Child @pookietooth @sjsrana @CraigRSawyer @NoLongerIgnored @alllibertynews @Save_Solai @SaveRChildrenCa… https://t.co/qWCfOvNYn3,Sun Jul 01 21:23:55 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+79,@pookietooth @jccjd91 @sjsrana @CraigRSawyer @NoLongerIgnored @alllibertynews @Save_Solai @SaveRChildrenCa… https://t.co/JU8gczyLuf,Sun Jul 01 21:23:36 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+80,RT @krisig555: @JackPosobiec @CoreyStewartVA @cnn @FoxNews @abc @oann @cbs @nbc @msnbc @FoxNewsInsider @gma - now it will be on the news -…,Sun Jul 01 21:23:32 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+81,@GCTigerTracker @GolfChannel And @cbs was having a baby...now they are only in mourning,Sun Jul 01 21:22:48 +0000 2018,@CBS,"{'neg': 0.209, 'neu': 0.791, 'pos': 0.0, 'compound': -0.4404}",0.0,0.209,0.791,-0.4404
+82,@DIRECTV why can’t I watch nationally televised golf on @CBS on @directvnow when I pay for your most expensive package? Dumb.,Sun Jul 01 21:20:56 +0000 2018,@CBS,"{'neg': 0.226, 'neu': 0.774, 'pos': 0.0, 'compound': -0.6077}",0.0,0.226,0.774,-0.6077
+83,"RT @brezzo: I see @CBS has a new show coming out in the fall called ""#FBI"". Guess which childish orange ballbag will be hoping it fails so…",Sun Jul 01 21:20:00 +0000 2018,@CBS,"{'neg': 0.168, 'neu': 0.738, 'pos': 0.094, 'compound': -0.296}",0.094,0.168,0.738,-0.296
+84,"RT @redeploybrave: This is the very reason this show needs to be rescued!
+#TheBrave #RedeployTheBrave @netflix @nbc @hulu @AmazonStudios @U…",Sun Jul 01 21:19:52 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 0.86, 'pos': 0.14, 'compound': 0.4753}",0.14,0.0,0.86,0.4753
+85,"RT @nvrggivup: ""Impeach 45"" @MSNBC @donlemon @jaketapper @cnnbrk @maddow @abcnews  @CBS  @nbc @NBCNews  @ShepNewsTeam @brikeilarcnn @anders…",Sun Jul 01 21:18:52 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+86,@tomcrown1 @DouglasHespelt @MArmenoff @Scorpionfanhun @CaptainBadger79 @tvfan00 @wayneabirch @pasbonca… https://t.co/9mjNnYuAYV,Sun Jul 01 21:18:34 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+87,@tomcrown1 @chpspics @MArmenoff @Scorpionfanhun @CaptainBadger79 @tvfan00 @wayneabirch @pasbonca @Adriennekauffm2… https://t.co/XC0uDQCXU8,Sun Jul 01 21:18:33 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+88,RT @tomcrown1: @chpspics @DouglasHespelt @MArmenoff @Scorpionfanhun @CaptainBadger79 @tvfan00 @wayneabirch @pasbonca @Adriennekauffm2 @CBS…,Sun Jul 01 21:17:59 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+89,RT @thelanto61: Tune in to @CBS today at 2PM....thanks to @PGATOUREnt @Titleist @FootJoy @18BirdiesApp @IESCOMM @standardinstyle https://t.…,Sun Jul 01 21:17:54 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+90,"RT @Bckrda: @tedlieu Really? Yet media gives djt a pass but trashes Obama Iran deal? A deal that had 6 other countries, verification, and n…",Sun Jul 01 21:16:28 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+91,"RT @ISAACYASS: .
+ @realDonaldTrump
+@restore_US_now
+@AP @cnnbrk @nytimes @CNN
+@POTUS @WSJ @ABC @CBS
+@FoxNews
+@AnnCoulter
+.
+Just remember thi…",Sun Jul 01 21:16:18 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+92,@FamUnite4Child @sjsrana @CraigRSawyer @pookietooth @NoLongerIgnored @alllibertynews @Save_Solai @SaveRChildrenCa… https://t.co/gKlCr5HpYn,Sun Jul 01 21:16:12 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+93,"@stinaknits Even if the other houseguests aren't outwardly protesting, both the men and women are obviously uncomfo… https://t.co/bNo9E80Fiq",Sun Jul 01 21:15:44 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 0.879, 'pos': 0.121, 'compound': 0.3252}",0.121,0.0,0.879,0.3252
+94,"I see @CBS has a new show coming out in the fall called ""#FBI"". Guess which childish orange ballbag will be hoping… https://t.co/mOFdqOd4w5",Sun Jul 01 21:15:09 +0000 2018,@CBS,"{'neg': 0.099, 'neu': 0.901, 'pos': 0.0, 'compound': -0.296}",0.0,0.099,0.901,-0.296
+95,@sebarc43 @refloreada @decosasbuenas @ValuRelanez @justmileybxtch @highwaytobirra @CBS No todos son capaces o no to… https://t.co/vjYEKiaNlB,Sun Jul 01 21:14:40 +0000 2018,@CBS,"{'neg': 0.268, 'neu': 0.732, 'pos': 0.0, 'compound': -0.5267}",0.0,0.268,0.732,-0.5267
+96,"RT @MSonmul: 👇👇👇
+@cnni @bbc @AP @Reuters @dwnews @FoxNews @ABC @NBCNews @CBS @hrw @ariannahuff @OSCE_RFoM @davidakaye @AFP @dwnews @Sputnik…",Sun Jul 01 21:13:46 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+97,@YahooNews @CBS @CBSThisMorning @Choppybluewater @TomiLahren @JudgeJeanine @YoungDems4Trump @PamelaGeller @FoxNews… https://t.co/i7adJBxqzp,Sun Jul 01 21:13:41 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+98,RT @HeleenScorpion: Stop ignoring us @CBS . We Scorpion fand don't ask for much. Only closure. According to the ratings on Monday night you…,Sun Jul 01 21:13:04 +0000 2018,@CBS,"{'neg': 0.189, 'neu': 0.811, 'pos': 0.0, 'compound': -0.5994}",0.0,0.189,0.811,-0.5994
+99,@flanole @JohnWDean @MSNBC @ABC @CBS @nbc It's not front and center yet because there's too much that's not confirm… https://t.co/E2jHAtGYYz,Sun Jul 01 21:12:54 +0000 2018,@CBS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+0,@FoxNews @POTUS You'll do it,Sun Jul 01 22:03:51 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+1,"RT @FoxNews: On @foxandfriends, @JudicialWatch President @TomFitton had a question for Robert Mueller. https://t.co/hrnCI6416N https://t.co…",Sun Jul 01 22:03:51 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+2,@FoxNews @POTUS Keep up the great work!,Sun Jul 01 22:03:50 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 0.577, 'pos': 0.423, 'compound': 0.6588}",0.423,0.0,0.577,0.6588
+3,"RT @FoxNews: .@LaraLeaTrump: ""If they are voting for someone who wants to abolish ICE, these people are putting illegal immigrants, drug de…",Sun Jul 01 22:03:49 +0000 2018,@Foxnews,"{'neg': 0.146, 'neu': 0.854, 'pos': 0.0, 'compound': -0.5574}",0.0,0.146,0.854,-0.5574
+4,"RT @FoxNews: .@DiamondandSilk: “If Barack Obama, if he’s campaigning for Nancy Pelosi that means he [doesn’t] have a clue.” https://t.co/kI…",Sun Jul 01 22:03:49 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+5,"RT @FoxNews: Teacher tried to hypnotize young female students, force them to call him 'master,' police say https://t.co/inq0UYmUpS",Sun Jul 01 22:03:49 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+6,"@Stephen32733273 @FoxNews You said: “School shootings are terrible,  but the don't effect average citizens in neigh… https://t.co/mlIk43VfLl",Sun Jul 01 22:03:48 +0000 2018,@Foxnews,"{'neg': 0.114, 'neu': 0.886, 'pos': 0.0, 'compound': -0.2617}",0.0,0.114,0.886,-0.2617
+7,@FoxNews @SenWarren @realDonaldTrump  https://t.co/er7MN8meLn,Sun Jul 01 22:03:48 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+8,"RT @GingerSammito: @HouseGOP 
+@HouseDemocrats 
+ @cnn
+@FoxNews 
+Totally agree!  Don’t sink to the level of those promoting or involved in ha…",Sun Jul 01 22:03:48 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 0.763, 'pos': 0.237, 'compound': 0.6793}",0.237,0.0,0.763,0.6793
+9,"@FoxNews ICE was only recently established, you don't need them to keep the border safe.",Sun Jul 01 22:03:47 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 0.828, 'pos': 0.172, 'compound': 0.4404}",0.172,0.0,0.828,0.4404
+10,RT @RepSwalwell: Scary. A constituent just confronted me and told me I support open borders. I told her that’s not true and I’ve never said…,Sun Jul 01 22:03:47 +0000 2018,@Foxnews,"{'neg': 0.262, 'neu': 0.642, 'pos': 0.096, 'compound': -0.5621}",0.096,0.262,0.642,-0.5621
+11,RT @MyaVoice1: @FoxNews @POTUS @MariaBartiromo Donald J Trump &amp; Ivanka manufacture all their goods in China.  How is this helping the Ameri…,Sun Jul 01 22:03:45 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 0.889, 'pos': 0.111, 'compound': 0.3612}",0.111,0.0,0.889,0.3612
+12,RT @LuckyNewports: @JoyAnnReid says the scared little man trying to  hide behind @FoxNews,Sun Jul 01 22:03:45 +0000 2018,@Foxnews,"{'neg': 0.295, 'neu': 0.705, 'pos': 0.0, 'compound': -0.5574}",0.0,0.295,0.705,-0.5574
+13,"RT @FoxNews: .@JudgeJeanine: ""Right now in America, there are forces dug in, organized, and well-funded doing whatever is necessary to make…",Sun Jul 01 22:03:44 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+14,RT @RepSwalwell: Scary. A constituent just confronted me and told me I support open borders. I told her that’s not true and I’ve never said…,Sun Jul 01 22:03:43 +0000 2018,@Foxnews,"{'neg': 0.262, 'neu': 0.642, 'pos': 0.096, 'compound': -0.5621}",0.096,0.262,0.642,-0.5621
+15,@BenediktAmrhein @realDonaldTrump @FoxNews only the best/worst off,Sun Jul 01 22:03:43 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+16,@FoxNews @realDonaldTrump What happened to the idea of energy independence?,Sun Jul 01 22:03:43 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 0.811, 'pos': 0.189, 'compound': 0.2732}",0.189,0.0,0.811,0.2732
+17,"RT @WayneDupreeShow: This is why I support @USMinority! There is no identity politics, no division. This is the positive msg @FoxNews @foxa…",Sun Jul 01 22:03:42 +0000 2018,@Foxnews,"{'neg': 0.157, 'neu': 0.607, 'pos': 0.235, 'compound': 0.4926}",0.235,0.157,0.607,0.4926
+18,@CBSNews @NBCNews @latimes @nytimes @AOL @FoxNews #+#+  @FOXTV @AP @MSN @washingtonpost @USATODAY @WSJ @nypost… https://t.co/lwuoJ2JWVG,Sun Jul 01 22:03:41 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+19,"RT @FoxNews: .@DiamondandSilk: ""When an American breaks the law, they're given three hots and a cot behind a locked cell block - period - a…",Sun Jul 01 22:03:41 +0000 2018,@Foxnews,"{'neg': 0.127, 'neu': 0.873, 'pos': 0.0, 'compound': -0.4404}",0.0,0.127,0.873,-0.4404
+20,"RT @FoxNews: Teacher tried to hypnotize young female students, force them to call him 'master,' police say https://t.co/inq0UYmUpS",Sun Jul 01 22:03:40 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+21,"@marcellalaluna @realDonaldTrump @MariaBartiromo @FoxNews We shall, cleavage girl! #boobsbeforebrains",Sun Jul 01 22:03:40 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+22,"RT @FoxNews: On ""Justice"" with @JudgeJeanine, @LaraLeaTrump had tough words for people who vote for ""someone who wants to abolish ICE."" htt…",Sun Jul 01 22:03:40 +0000 2018,@Foxnews,"{'neg': 0.067, 'neu': 0.933, 'pos': 0.0, 'compound': -0.128}",0.0,0.067,0.933,-0.128
+23,RT @MariaBartiromo: .@POTUS Trump: European Union is possibly as bad as China https://t.co/dgfJCr4fa1 @realDonaldTrump @WhiteHouse @SundayF…,Sun Jul 01 22:03:38 +0000 2018,@Foxnews,"{'neg': 0.189, 'neu': 0.811, 'pos': 0.0, 'compound': -0.5423}",0.0,0.189,0.811,-0.5423
+24,@ben_foreman14 @FoxNews I didn’t tell you to not say it. I didn’t take your voice away. I said I’d rather not have… https://t.co/sGQIlFgG3i,Sun Jul 01 22:03:38 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+25,".@PatriotRevolt16 Obama chose not to enforce laws.   Lefties ignore laws and remove those that enforce them!
+19 ICE… https://t.co/PqZb17262W",Sun Jul 01 22:03:38 +0000 2018,@Foxnews,"{'neg': 0.134, 'neu': 0.866, 'pos': 0.0, 'compound': -0.4199}",0.0,0.134,0.866,-0.4199
+26,@DanielHedgewor1 @FoxNews https://t.co/gZWYJfIHnI,Sun Jul 01 22:03:38 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+27,"@getoveritlibs @USAFF35 @FoxNews *you're ... learn English!
+Have you heard about Harley Davidson? Have the Trunp's brought their jobs back?",Sun Jul 01 22:03:38 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+28,"@FoxNews @marcthiessen @TheDemocrats As part of the middle of the country, the con-man, maybe billionaire has never… https://t.co/b9KAea89nk",Sun Jul 01 22:03:37 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+29,@AIIAmericanGirI @FoxNews So a president of a less powerful country wants to pick a fight with the president of a m… https://t.co/fkqIF8RoUc,Sun Jul 01 22:03:37 +0000 2018,@Foxnews,"{'neg': 0.123, 'neu': 0.758, 'pos': 0.119, 'compound': -0.024}",0.119,0.123,0.758,-0.024
+30,@droneguy65 @FoxNews @Rep_Hunter @TheDemocrats @POTUS Actually read Schumer statement on the issue he said he wasn't going to vote.,Sun Jul 01 22:03:36 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+31,@FoxNews 19 people will be looking for new jobs,Sun Jul 01 22:03:36 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+32,@FoxNews @JudgeJeanine She is a joke.,Sun Jul 01 22:03:35 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.296}",0.355,0.0,0.645,0.296
+33,@FoxNews That's a lot of class!,Sun Jul 01 22:03:35 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+34,"RT @Airvooocht: .@realDonaldTrump today on @FoxNews 
+
+„We love the European Union... My parents were born in the European Union!“
+
+1. His f…",Sun Jul 01 22:03:35 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 0.824, 'pos': 0.176, 'compound': 0.6696}",0.176,0.0,0.824,0.6696
+35,"RT @FoxNews: .@marcthiessen: ""@TheDemocrats have become a party of coastal elites that's completely lost touch with the middle of the count…",Sun Jul 01 22:03:34 +0000 2018,@Foxnews,"{'neg': 0.111, 'neu': 0.773, 'pos': 0.116, 'compound': 0.0276}",0.116,0.111,0.773,0.0276
+36,RT @FoxNews: Ronald Vitiello Named New ICE Leader https://t.co/X7U04t6z8Z,Sun Jul 01 22:03:33 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+37,RT @FoxNews: Ronald Vitiello Named New ICE Leader https://t.co/X7U04t6z8Z,Sun Jul 01 22:03:32 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+38,@FoxNews Every Weirdos dream !,Sun Jul 01 22:03:32 +0000 2018,@Foxnews,"{'neg': 0.374, 'neu': 0.313, 'pos': 0.313, 'compound': -0.1007}",0.313,0.374,0.313,-0.1007
+39,"RT @Airvooocht: .@realDonaldTrump today on @FoxNews 
+
+„We love the European Union... My parents were born in the European Union!“
+
+1. His f…",Sun Jul 01 22:03:32 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 0.824, 'pos': 0.176, 'compound': 0.6696}",0.176,0.0,0.824,0.6696
+40,24/7 HATE will make people tune-out. If that’s your intention @FoxNews @CNN @MSNBC @ABC @NBCNews @CBSNews it’s work… https://t.co/XYaDOmDxJ2,Sun Jul 01 22:03:32 +0000 2018,@Foxnews,"{'neg': 0.198, 'neu': 0.802, 'pos': 0.0, 'compound': -0.6633}",0.0,0.198,0.802,-0.6633
+41,"RT @FoxNews: .@DiamondandSilk: “If Barack Obama, if he’s campaigning for Nancy Pelosi that means he [doesn’t] have a clue.” https://t.co/kI…",Sun Jul 01 22:03:30 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+42,RT @freetospeekout: @FoxNews @FoxNews this headline is an out and out lie!  The letter suggests splitting ICE into two separate agencies th…,Sun Jul 01 22:03:29 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+43,@Kantw81 @FoxNews @POTUS MAGA!,Sun Jul 01 22:03:29 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+44,"@realDonaldTrump @MariaBartiromo @FoxNews ...more lies! Yay and uhm, no. Serial liar.",Sun Jul 01 22:03:29 +0000 2018,@Foxnews,"{'neg': 0.452, 'neu': 0.369, 'pos': 0.179, 'compound': -0.636}",0.179,0.452,0.369,-0.636
+45,@pamelawarren11 @RaheemWay @FoxNews No we do not come with experation stamps on our butts,Sun Jul 01 22:03:29 +0000 2018,@Foxnews,"{'neg': 0.145, 'neu': 0.855, 'pos': 0.0, 'compound': -0.296}",0.0,0.145,0.855,-0.296
+46,@KeepFaith_Hope @FoxNews I have a question. When a guy breaks into your home do you ask him if he's bad or just ass… https://t.co/eYkcbLkOsG,Sun Jul 01 22:03:29 +0000 2018,@Foxnews,"{'neg': 0.149, 'neu': 0.851, 'pos': 0.0, 'compound': -0.5423}",0.0,0.149,0.851,-0.5423
+47,@OhJeezums As I recall @FoxNews criticism was of @BarackObama assertion that he would meet with N. Korea at any tim… https://t.co/3oWXaPb5tw,Sun Jul 01 22:03:29 +0000 2018,@Foxnews,"{'neg': 0.132, 'neu': 0.868, 'pos': 0.0, 'compound': -0.4404}",0.0,0.132,0.868,-0.4404
+48,"@FoxNews And trump would like us to believe we should fear illegals when in fact, it's Americans who look like this… https://t.co/NvXRGZh8fE",Sun Jul 01 22:03:28 +0000 2018,@Foxnews,"{'neg': 0.118, 'neu': 0.699, 'pos': 0.184, 'compound': 0.2023}",0.184,0.118,0.699,0.2023
+49,RT @FoxNews: .@POTUS: “The big thing that I’m focused on now is trade. I have to straighten out trade deals.” https://t.co/Ao3VNmoq7h,Sun Jul 01 22:03:28 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 0.88, 'pos': 0.12, 'compound': 0.3818}",0.12,0.0,0.88,0.3818
+50,"RT @FoxNews: .@LaraLeaTrump: ""If they are voting for someone who wants to abolish ICE, these people are putting illegal immigrants, drug de…",Sun Jul 01 22:03:28 +0000 2018,@Foxnews,"{'neg': 0.146, 'neu': 0.854, 'pos': 0.0, 'compound': -0.5574}",0.0,0.146,0.854,-0.5574
+51,@FoxNews @JudgeJeanine Go Judge Jeanie!,Sun Jul 01 22:03:27 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+52,"RT @FoxNews: Angel Mom Courtney Hacking, whose husband and two children were killed in a crash involving an illegal immigrant, said that Am…",Sun Jul 01 22:03:27 +0000 2018,@Foxnews,"{'neg': 0.362, 'neu': 0.638, 'pos': 0.0, 'compound': -0.8957}",0.0,0.362,0.638,-0.8957
+53,"RT @FoxNews: ""But I’m putting conservative people on.""
+
+President @realDonaldTrump expects his next Supreme Court pick “to go very quickly”…",Sun Jul 01 22:03:27 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 0.841, 'pos': 0.159, 'compound': 0.5574}",0.159,0.0,0.841,0.5574
+54,RT @FoxNews: .@POTUS: “The big thing that I’m focused on now is trade. I have to straighten out trade deals.” https://t.co/Ao3VNmoq7h,Sun Jul 01 22:03:26 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 0.88, 'pos': 0.12, 'compound': 0.3818}",0.12,0.0,0.88,0.3818
+55,"RT @FoxNews: .@TomFitton: ""Mueller’s operation is one of the most secretive I can remember and I’ve been doing this for 20 years."" https://…",Sun Jul 01 22:03:25 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+56,@FoxNews Don’t want Canadian goods if they can play fairly!,Sun Jul 01 22:03:25 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 0.667, 'pos': 0.333, 'compound': 0.4574}",0.333,0.0,0.667,0.4574
+57,"RT @FoxNews: Maxine Waters' GOP rival seeks traction over her inflammatory comments
+https://t.co/4FyWnRRbys",Sun Jul 01 22:03:25 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+58,@FoxNews Foolishness and barbarity on display,Sun Jul 01 22:03:22 +0000 2018,@Foxnews,"{'neg': 0.359, 'neu': 0.641, 'pos': 0.0, 'compound': -0.4215}",0.0,0.359,0.641,-0.4215
+59,@WilfredHegg @FoxNews @marcthiessen @TheDemocrats Good for you and your clarity! What about your neighbors? Think y… https://t.co/rqT9qj7kYX,Sun Jul 01 22:03:22 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 0.718, 'pos': 0.282, 'compound': 0.7088}",0.282,0.0,0.718,0.7088
+60,"RT @FoxNews: Angel Mom Courtney Hacking, whose husband and two children were killed in a crash involving an illegal immigrant, said that Am…",Sun Jul 01 22:03:21 +0000 2018,@Foxnews,"{'neg': 0.362, 'neu': 0.638, 'pos': 0.0, 'compound': -0.8957}",0.0,0.362,0.638,-0.8957
+61,@FoxNews @Jeff_Journalist C’mon dumbassocrats. Where is the outrage for the parents being separated from their kids… https://t.co/GAQvq26U7D,Sun Jul 01 22:03:21 +0000 2018,@Foxnews,"{'neg': 0.171, 'neu': 0.829, 'pos': 0.0, 'compound': -0.5106}",0.0,0.171,0.829,-0.5106
+62,RT @FoxNews: .@POTUS: “The big thing that I’m focused on now is trade. I have to straighten out trade deals.” https://t.co/Ao3VNmoq7h,Sun Jul 01 22:03:20 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 0.88, 'pos': 0.12, 'compound': 0.3818}",0.12,0.0,0.88,0.3818
+63,"@FoxNews @WittSheryl We should be like London and start banning knives now? Libs, lets hear it.",Sun Jul 01 22:03:20 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 0.857, 'pos': 0.143, 'compound': 0.3612}",0.143,0.0,0.857,0.3612
+64,"RT @FoxNews: .@SenatorDurbin: ""We may be divided and we certainly are on the issue of abortion, but when it comes to basic health care for…",Sun Jul 01 22:03:19 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 0.793, 'pos': 0.207, 'compound': 0.7184}",0.207,0.0,0.793,0.7184
+65,"RT @FoxNews: Teacher tried to hypnotize young female students, force them to call him 'master,' police say https://t.co/inq0UYmUpS",Sun Jul 01 22:03:18 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+66,"RT @FoxNews: On ""Sunday Morning Futures with @MariaBartiromo,"" former Reagan -Bush campaign manager Ed Rollins offered great praise for Pre…",Sun Jul 01 22:03:17 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 0.7, 'pos': 0.3, 'compound': 0.8271}",0.3,0.0,0.7,0.8271
+67,"RT @FoxNews: On ""Sunday Morning Futures with @MariaBartiromo,"" former Reagan -Bush campaign manager Ed Rollins offered great praise for Pre…",Sun Jul 01 22:03:17 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 0.7, 'pos': 0.3, 'compound': 0.8271}",0.3,0.0,0.7,0.8271
+68,"@FoxNews @AmbJohnBolton @POTUS All the great hawks, suddenly in hypnotic trance - towing the line as if under some… https://t.co/TWUY21SuPN",Sun Jul 01 22:03:17 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 0.814, 'pos': 0.186, 'compound': 0.6249}",0.186,0.0,0.814,0.6249
+69,RT @FoxNews: #Trump crashes wedding at Bedminster golf club https://t.co/UDxLFjCdzK,Sun Jul 01 22:03:17 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+70,@Kantw81 @FoxNews @JudgeJeanine NOT,Sun Jul 01 22:03:16 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+71,RT @real_farmacist: @realDonaldTrump @MariaBartiromo @FoxNews  https://t.co/gOtMLwP0A9,Sun Jul 01 22:03:16 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+72,RT @FoxNews: .@POTUS: “The big thing that I’m focused on now is trade. I have to straighten out trade deals.” https://t.co/Ao3VNmoq7h,Sun Jul 01 22:03:16 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 0.88, 'pos': 0.12, 'compound': 0.3818}",0.12,0.0,0.88,0.3818
+73,RT @AIIAmericanGirI: Mexico presidential election front-runner vows to fight Trump with left-wing policies https://t.co/DkqZS16cja @FoxNews…,Sun Jul 01 22:03:15 +0000 2018,@Foxnews,"{'neg': 0.157, 'neu': 0.843, 'pos': 0.0, 'compound': -0.3818}",0.0,0.157,0.843,-0.3818
+74,@FoxNews @JudgeJeanine We are too Socialist already. Approximately 50 percent of Americans are with me in resisting… https://t.co/0UOxTai91X,Sun Jul 01 22:03:15 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+75,RT @FoxNews: Ronald Vitiello Named New ICE Leader https://t.co/X7U04t6z8Z,Sun Jul 01 22:03:15 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+76,"RT @FoxNews: .@JudgeJeanine: ""Right now in America, there are forces dug in, organized, and well-funded doing whatever is necessary to make…",Sun Jul 01 22:03:15 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+77,@bpt326 @Nee7x7 @saiwarlord @lotos242 @outlawmod99 @FoxNews @PressSec @POTUS Don't know if he was stupid enough to… https://t.co/ge5feSAS4C,Sun Jul 01 22:03:14 +0000 2018,@Foxnews,"{'neg': 0.175, 'neu': 0.825, 'pos': 0.0, 'compound': -0.5267}",0.0,0.175,0.825,-0.5267
+78,"RT @FoxNews: .@MaxineWaters: ""We are sick and tired of him. He's been there too long. They dare me to say 'Impeach him.' Today I say, 'Impe…",Sun Jul 01 22:03:14 +0000 2018,@Foxnews,"{'neg': 0.212, 'neu': 0.788, 'pos': 0.0, 'compound': -0.7351}",0.0,0.212,0.788,-0.7351
+79,@FoxNews @POTUS Yeah right like how you straightened out NK. Art of the deal my ass.,Sun Jul 01 22:03:14 +0000 2018,@Foxnews,"{'neg': 0.165, 'neu': 0.613, 'pos': 0.222, 'compound': 0.0516}",0.222,0.165,0.613,0.0516
+80,"@FoxNews @marcthiessen @TheDemocrats You grew up in Manhattan, parents were both Doctors and went to a private prep… https://t.co/U5s1ZyRHr9",Sun Jul 01 22:03:13 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+81,RT @FoxNews: .@POTUS: “The big thing that I’m focused on now is trade. I have to straighten out trade deals.” https://t.co/Ao3VNmoq7h,Sun Jul 01 22:03:13 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 0.88, 'pos': 0.12, 'compound': 0.3818}",0.12,0.0,0.88,0.3818
+82,@FoxNews put out FAKE NEWS that they later retracted in order to lie to effect the election results. Now they’ve ce… https://t.co/XEi3Ep5n57,Sun Jul 01 22:03:12 +0000 2018,@Foxnews,"{'neg': 0.154, 'neu': 0.846, 'pos': 0.0, 'compound': -0.5904}",0.0,0.154,0.846,-0.5904
+83,@FoxNews ICE is hiring! 19 positions open..,Sun Jul 01 22:03:11 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+84,"RT @FoxNews: On ""Sunday Morning Futures with @MariaBartiromo,"" former Reagan -Bush campaign manager Ed Rollins offered great praise for Pre…",Sun Jul 01 22:03:11 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 0.7, 'pos': 0.3, 'compound': 0.8271}",0.3,0.0,0.7,0.8271
+85,"RT @FoxNews: .@JudgeJeanine: ""Right now in America, there are forces dug in, organized, and well-funded doing whatever is necessary to make…",Sun Jul 01 22:03:10 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+86,@janelowther @dailey_kohtz @FoxNews I don't need my president to care about me. I'm a big girl I don't need gvt to… https://t.co/dLTcruBdLr,Sun Jul 01 22:03:10 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 0.849, 'pos': 0.151, 'compound': 0.4939}",0.151,0.0,0.849,0.4939
+87,RT @FoxNews: Russia stuns Spain on penalties to reach #WorldCup quarterfinals https://t.co/plOvq6kM3p,Sun Jul 01 22:03:10 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 0.82, 'pos': 0.18, 'compound': 0.0516}",0.18,0.0,0.82,0.0516
+88,"RT @FoxNews: The sun rises behind the Washington Monument as geese swim down the Potomac River at daybreak on Sunday, July 1. https://t.co/…",Sun Jul 01 22:03:10 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+89,@FoxNews When is Congress going to start looking seriously into mental illness issues?,Sun Jul 01 22:03:09 +0000 2018,@Foxnews,"{'neg': 0.286, 'neu': 0.714, 'pos': 0.0, 'compound': -0.5267}",0.0,0.286,0.714,-0.5267
+90,@FoxNews @POTUS .@POTUS: “The big thing that I’m focused on now is where to secretly funnel the millions of dollars… https://t.co/Zu32RgmuHl,Sun Jul 01 22:03:09 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 0.837, 'pos': 0.163, 'compound': 0.4019}",0.163,0.0,0.837,0.4019
+91,@FoxNews Let’s have all the families that US citizens have affected with mass shootings!,Sun Jul 01 22:03:09 +0000 2018,@Foxnews,"{'neg': 0.127, 'neu': 0.873, 'pos': 0.0, 'compound': -0.2244}",0.0,0.127,0.873,-0.2244
+92,@FoxNews @JudgeJeanine @LaraLeaTrump Abolish #Trump first and all #Trumps off the face of the earth.   Then talks can begin.,Sun Jul 01 22:03:09 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+93,RT @FoxNews: #Trump crashes wedding at Bedminster golf club https://t.co/UDxLFjCdzK,Sun Jul 01 22:03:09 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+94,@DuftyWGCC @realDonaldTrump @MariaBartiromo @FoxNews Why would he?,Sun Jul 01 22:03:08 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+95,@FoxNews @JudgeJeanine They  are called the trumplican  party full of cowards and the worst of what their Amerika has to offer.,Sun Jul 01 22:03:07 +0000 2018,@Foxnews,"{'neg': 0.159, 'neu': 0.736, 'pos': 0.105, 'compound': -0.34}",0.105,0.159,0.736,-0.34
+96,"RT @WilfredHegg: @FoxNews @marcthiessen @TheDemocrats Funny, I live in the Midwest, grew up on a farm, parents were Republicans, &amp; a lifelo…",Sun Jul 01 22:03:07 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 0.861, 'pos': 0.139, 'compound': 0.4404}",0.139,0.0,0.861,0.4404
+97,Police: Man stabs 9 people at toddler's birthday party https://t.co/yDTCKnY9PM via @foxnews,Sun Jul 01 22:03:07 +0000 2018,@Foxnews,"{'neg': 0.199, 'neu': 0.616, 'pos': 0.185, 'compound': -0.0516}",0.185,0.199,0.616,-0.0516
+98,"RT @FoxNews: On @foxandfriends, @dbongino slammed Democrats calling for the end of ICE. https://t.co/ImNV0V3p3e https://t.co/PrC4z44kyN",Sun Jul 01 22:03:07 +0000 2018,@Foxnews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0
+99,RT @FoxNews: .@charliekirk11: “These protests were much more about hating Trump than actually helping children.” https://t.co/kBXrChUZ9L,Sun Jul 01 22:03:06 +0000 2018,@Foxnews,"{'neg': 0.265, 'neu': 0.629, 'pos': 0.106, 'compound': -0.507}",0.106,0.265,0.629,-0.507
